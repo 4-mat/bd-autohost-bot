@@ -1,0 +1,19 @@
+{
+    "sampleroom":
+    {
+        "roomowners": ["provide your ROs", "here"],
+        "commandname":
+        {
+            "rank": "set custom rank (integer, not a string)",
+            "special":
+            {
+                "commandname":
+                {
+                    "users": ["custom user list", "another user"],
+                    "arg": "if you want to require an arg for the user to use"
+                }
+            }
+        }
+    }
+    
+}
