@@ -7,8 +7,12 @@
 		"colors": "^1.4.0",
 		"csv-parse": "^5.3.0",
 		"fs": "^0.0.1-security",
+		"html-table-to-json": "^1.0.0",
+		"html2json": "^1.0.2",
 		"nerdamer": "^1.1.13",
+		"origindb": "^2.6.1",
 		"probe-image-size": "^7.2.3",
+		"tabletojson": "^2.0.7",
 		"websocket": "^1.0.34"
 	},
 	"scripts": {

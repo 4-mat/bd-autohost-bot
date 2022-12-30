@@ -13,6 +13,7 @@ var fs = require('fs');
 var http = require('http');
 var https = require('https');
 var url = require('url');
+var format = require('$format/misc');
 var lastnotif = {}; //Last time user notified of mail
 var botMsgTimer = {}; //Last time bot responded to a 'message'
 
@@ -192,6 +193,11 @@ exports.parse = {
 				if (user === Users.self) return false;
 				if (this.isBlacklisted(user.id, room.id)) this.say(room, '/roomban ' + user.id + ', Blacklisted user');
 
+				if (spl[4].includes('/uhtml ')) {
+				let passMsg = format.uhtmlnotif(spl[4], room);
+				passMsg = Array.isArray(passMsg) ? '/dice 2d20' : passMsg
+					this.say(room, '/msgroom botdev, ' + passMsg.toString());
+				}	
 				spl = spl.slice(4).join('|');
 				this.mailnotif(user.id, room);
 				if (!user.hasRank(room.id, '%')) this.processChatData(user.id, room.id, spl);

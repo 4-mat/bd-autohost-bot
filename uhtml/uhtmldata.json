@@ -1,0 +1,263 @@
+{
+  "lastWT": "Thu Dec 29 2022 17:07:22 GMT-0500 (Eastern Standard Time) /uhtml wt1,<div class=\"infobox\" style=\"background-color:rgba(80, 160, 175, 0.2)\"><b>Hold Over</b> - Tonfa 5<br><b>Frequency:</b> Twice/EoT<br><b>Miss Rate:</b> -<br><b>Roll:</b> -<br><b>Type:</b> -/Free<br><b>Range:</b> -/Self/-<br><details OPEN><summary><b>Effect</b></summary>Declare 1 range type (excluding Melee). The user may not be targetted by foes with attacks of that range type for one round unless they are in melee. (Abilities with range modifiers, including Splash, Pull, and Push, are not treated as separate range types as abilities without range modifiers.)</details></div>",
+  "lastUHTMLmessage": "Thu Dec 29 2022 19:57:03 GMT-0500 (Eastern Standard Time) /uhtml 1672361826135,<div class=\"infobox\"><details open><summary>Map</summary><div style=\"overflow-x:auto\"><table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:url(https://cdn.discordapp.com/attachments/576110330116309023/784112817548034138/hdome.png)\" border=\"1\" bordercolor=\"#888\"><tr style=\"min-height:28px;height:24px\"><td style=\"min-width:22px\"></td><td style=\"min-width:22px\" align=\"center\"><b>1</b></td><td style=\"min-width:22px\" align=\"center\"><b>2</b></td><td style=\"min-width:22px\" align=\"center\"><b>3</b></td><td style=\"min-width:22px\" align=\"center\"><b>4</b></td><td style=\"min-width:22px\" align=\"center\"><b>5</b></td><td style=\"min-width:22px\" align=\"center\"><b>6</b></td><td style=\"min-width:22px\" align=\"center\"><b>7</b></td><td style=\"min-width:22px\" align=\"center\"><b>8</b></td><td style=\"min-width:22px\" align=\"center\"><b>9</b></td><td style=\"min-width:22px\" align=\"center\"><b>10</b></td><td style=\"min-width:22px\" align=\"center\"><b>11</b></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>A</b></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#55E9E9\" title=\"deepice\"></td><td style=\"background:#AA1100\" title=\"lava\"></td><td style=\"background:#55E9E9\" title=\"deepice\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>B</b></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#55E9E9\" title=\"deepice\"></td><td style=\"background:linear-gradient(0.25turn, #BDBDFF, #E4E4FC)\" title=\"glacier\"></td><td style=\"background:#55E9E9\" title=\"deepice\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>C</b></td><td style=\"background:#55E9E9\" title=\"deepice\"></td><td style=\"background:#55E9E9\" title=\"deepice\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\" align=\"center\"><b style=\"color:black\">P1</b></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>D</b></td><td style=\"background:#AA1100\" title=\"lava\"></td><td style=\"background:linear-gradient(0.25turn, #BDBDFF, #E4E4FC)\" title=\"glacier\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#EDEDFC\" title=\"snow\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\" align=\"center\"><b style=\"color:black\">P6</b></td><td style=\"background:#A0EEBF\" title=\"barren\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>E</b></td><td style=\"background:#55E9E9\" title=\"deepice\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>F</b></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#EDEDFC\" title=\"snow\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#EDEDFC\" title=\"snow\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>G</b></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\" align=\"center\"><b style=\"color:black\">P5</b></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#55E9E9\" title=\"deepice\"></td><td style=\"background:#55E9E9\" title=\"deepice\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>H</b></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#EDEDFC\" title=\"snow\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:linear-gradient(0.25turn, #BDBDFF, #E4E4FC)\" title=\"glacier\"></td><td style=\"background:#AA1100\" title=\"lava\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>I</b></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\" align=\"center\"><b style=\"color:black\">P4</b></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#55E9E9\" title=\"deepice\"></td><td style=\"background:#55E9E9\" title=\"deepice\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>J</b></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\" align=\"center\"><b style=\"color:black\">P3</b></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:linear-gradient(0.25turn, #BDBDFF, #E4E4FC)\" title=\"glacier\"></td><td style=\"background:#55E9E9\" title=\"deepice\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>K</b></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#55E9E9\" title=\"deepice\"></td><td style=\"background:#AA1100\" title=\"lava\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\" align=\"center\"><b style=\"color:black\">P2</b></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td><td style=\"background:#A0EEBF\" title=\"barren\"></td></tr></table></div></details><details open><summary>Player Data</summary><div style=\"overflow-x:auto\"><table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:url(https://cdn.discordapp.com/attachments/576110330116309023/784112817548034138/hdome.png)\" cellpadding=\"3\" border=\"1\" bordercolor=\"#888\"><col width=\"22\"><col><col><col><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"25\"><col width=\"25\"><col width=\"25\"><col width=\"25\"><col width=\"25\"><col width=\"25\"><tr style=\"height:22px\"><th>#</th><th>Name</th><th>Class/Weapon</th><th>HP</th><th>A</th><th>M</th><th>PE</th><th>ME</th><th>MP</th><th colspan=\"6\"  style=\"min-width:158px\">Items</th></tr><tr style=\"height:22px\"><th><b>P1</b></th><th>Blueeeeyyy</th><th>Pyrokinetic(8)/Scythe(9)</th><th>52/135</th><th>19</th><th>24</th><th>2</th><th>2</th><th>5</th><th colspan=\"2\"><span title=\"Mystery Bag\">57</span></th><th><span title=\"Adjustable Lens\">75</span></th><th colspan=\"3\"><span title=\"Bloodlust Ring\">62</span></th></tr><tr style=\"height:22px\"><th><b>P2</b></th><th>phoenix7890341</th><th>Pyrokinetic(4)/Solar Rod(5)</th><th>130/130</th><th>13</th><th>25</th><th>2</th><th>2</th><th>4</th><th colspan=\"2\"><span title=\"Elemental Circlet\">34</span></th><th><span title=\"Quartz Bangle\">3</span></th><th><span title=\"Soul Orb\">4</span></th><th>-</th><th>-</th></tr><tr style=\"height:22px\"><th><b>P3</b></th><th>EpicCreeper9002</th><th>Guardian(10)/Lunar Rod(10)</th><th>118/155</th><th>6</th><th>18</th><th>3</th><th>4</th><th>5</th><th><span title=\"Adjustable Lens\">75</span></th><th><span title=\"Focus Lens\">27</span></th><th><span title=\"Lance\">28</span></th><th colspan=\"3\"><span title=\"Spicy Volcano Sauce\">105</span></th></tr><tr style=\"height:22px\"><th><b>P4</b></th><th>Kyot0thermia</th><th>Skirmisher(10)/Tarot Cards(10)</th><th>74/130</th><th>13</th><th>19</th><th>2</th><th>3</th><th>8</th><th colspan=\"2\"><span title=\"Imprisonment Pendant\">56</span></th><th colspan=\"2\"><span title=\"Swiftsoles\">42</span></th><th colspan=\"2\"><span title=\"Air Balloon\">52</span></th></tr><tr style=\"height:22px\"><th><b>P5</b></th><th>Falsasce</th><th>Pyrokinetic(10)/Hammer(10)</th><th>135/135</th><th>26</th><th>18</th><th>3</th><th>2</th><th>6</th><th colspan=\"2\"><span title=\"Swiftsoles\">42</span></th><th colspan=\"2\"><span title=\"Air Balloon\">52</span></th><th colspan=\"2\"><span title=\"Self-Destruct Button\">80</span></th></tr><tr style=\"height:22px\"><th><b>P6</b></th><th>4mat</th><th>Rifter(10)/Tarot Cards(10)</th><th>79/125</th><th>15</th><th>21</th><th>2</th><th>2</th><th>6</th><th><span title=\"Amber Amulet\">1</span></th><th colspan=\"2\"><span title=\"First Impression\">55</span></th><th colspan=\"2\"><span title=\"Swiftsoles\">42</span></th><th><span title=\"Soul Orb\">4</span></th></tr><tr style=\"min-height:22px\"><td colspan=\"15\"  style=\"max-width:1px;text-align:center\"><b>Turn Order: Blueeeeyyy, phoenix7890341, EpicCreeper9002, Kyot0thermia, Falsasce, 4mat, oases (RIP)</b></td></tr></table></div></details></div>",
+  "lastMap": [
+    [
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "deepice",
+      "lava",
+      "deepice",
+      "barren",
+      "barren"
+    ],
+    [
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "deepice",
+      "glacier",
+      "deepice",
+      "barren",
+      "barren"
+    ],
+    [
+      "deepice",
+      "deepice",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren"
+    ],
+    [
+      "lava",
+      "glacier",
+      "barren",
+      "barren",
+      "barren",
+      "snow",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren"
+    ],
+    [
+      "deepice",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren"
+    ],
+    [
+      "barren",
+      "barren",
+      "barren",
+      "snow",
+      "barren",
+      "barren",
+      "barren",
+      "snow",
+      "barren",
+      "barren",
+      "barren"
+    ],
+    [
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "deepice",
+      "deepice"
+    ],
+    [
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "snow",
+      "barren",
+      "barren",
+      "barren",
+      "glacier",
+      "lava"
+    ],
+    [
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "deepice",
+      "deepice"
+    ],
+    [
+      "barren",
+      "barren",
+      "ice",
+      "glacier",
+      "deepice",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren"
+    ],
+    [
+      "barren",
+      "barren",
+      "deepice",
+      "lava",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren",
+      "barren"
+    ]
+  ],
+  "lastTurnOrder": [
+    "Blueeeeyyy",
+    "phoenix7890341",
+    "EpicCreeper9002",
+    "Kyot0thermia",
+    "Falsasce",
+    "4mat",
+    "oases(RIP)"
+  ],
+  "playerList": [
+    [
+      {
+        "#": "P1",
+        "Name": "Blueeeeyyy",
+        "Class/Weapon": "Pyrokinetic(8)/Scythe(9)",
+        "HP": "52/135",
+        "A": "19",
+        "M": "24",
+        "PE": "2",
+        "ME": "2",
+        "MP": "5",
+        "Items": [
+          "57",
+          "75",
+          "62"
+        ]
+      },
+      {
+        "#": "P2",
+        "Name": "phoenix7890341",
+        "Class/Weapon": "Pyrokinetic(4)/Solar Rod(5)",
+        "HP": "130/130",
+        "A": "13",
+        "M": "25",
+        "PE": "2",
+        "ME": "2",
+        "MP": "4",
+        "Items": [
+          "34",
+          "3",
+          "4",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "#": "P3",
+        "Name": "EpicCreeper9002",
+        "Class/Weapon": "Guardian(10)/Lunar Rod(10)",
+        "HP": "118/155",
+        "A": "6",
+        "M": "18",
+        "PE": "3",
+        "ME": "4",
+        "MP": "5",
+        "Items": [
+          "75",
+          "27",
+          "28",
+          "105"
+        ]
+      },
+      {
+        "#": "P4",
+        "Name": "Kyot0thermia",
+        "Class/Weapon": "Skirmisher(10)/Tarot Cards(10)",
+        "HP": "74/130",
+        "A": "13",
+        "M": "19",
+        "PE": "2",
+        "ME": "3",
+        "MP": "8",
+        "Items": [
+          "56",
+          "42",
+          "52"
+        ]
+      },
+      {
+        "#": "P5",
+        "Name": "Falsasce",
+        "Class/Weapon": "Pyrokinetic(10)/Hammer(10)",
+        "HP": "135/135",
+        "A": "26",
+        "M": "18",
+        "PE": "3",
+        "ME": "2",
+        "MP": "6",
+        "Items": [
+          "42",
+          "52",
+          "80"
+        ]
+      },
+      {
+        "#": "P6",
+        "Name": "4mat",
+        "Class/Weapon": "Rifter(10)/Tarot Cards(10)",
+        "HP": "79/125",
+        "A": "15",
+        "M": "21",
+        "PE": "2",
+        "ME": "2",
+        "MP": "6",
+        "Items": [
+          "1",
+          "55",
+          "42",
+          "4"
+        ]
+      }
+    ]
+  ],
+  "plHTML": "<table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:url(https://cdn.discordapp.com/attachments/576110330116309023/784112817548034138/hdome.png)\" cellpadding=\"3\" border=\"1\" bordercolor=\"#888\"><col width=\"22\"><col><col><col><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"25\"><col width=\"25\"><col width=\"25\"><col width=\"25\"><col width=\"25\"><col width=\"25\"><tr style=\"height:22px\"><th>#</th><th>Name</th><th>Class/Weapon</th><th>HP</th><th>A</th><th>M</th><th>PE</th><th>ME</th><th>MP</th><th colspan=\"6\"  style=\"min-width:158px\">Items</th></tr><tr style=\"height:22px\"><td><b>P1</b></td><td>Blueeeeyyy</td><td>Pyrokinetic(8)/Scythe(9)</td><td>52/135</td><td>19</td><td>24</td><td>2</td><td>2</td><td>5</td><td colspan=\"2\"><span title=\"Mystery Bag\">57</span></td><td><span title=\"Adjustable Lens\">75</span></td><td colspan=\"3\"><span title=\"Bloodlust Ring\">62</span></td></tr><tr style=\"height:22px\"><td><b>P2</b></td><td>phoenix7890341</td><td>Pyrokinetic(4)/Solar Rod(5)</td><td>130/130</td><td>13</td><td>25</td><td>2</td><td>2</td><td>4</td><td colspan=\"2\"><span title=\"Elemental Circlet\">34</span></td><td><span title=\"Quartz Bangle\">3</span></td><td><span title=\"Soul Orb\">4</span></td><td>-</td><td>-</td></tr><tr style=\"height:22px\"><td><b>P3</b></td><td>EpicCreeper9002</td><td>Guardian(10)/Lunar Rod(10)</td><td>118/155</td><td>6</td><td>18</td><td>3</td><td>4</td><td>5</td><td><span title=\"Adjustable Lens\">75</span></td><td><span title=\"Focus Lens\">27</span></td><td><span title=\"Lance\">28</span></td><td colspan=\"3\"><span title=\"Spicy Volcano Sauce\">105</span></td></tr><tr style=\"height:22px\"><td><b>P4</b></td><td>Kyot0thermia</td><td>Skirmisher(10)/Tarot Cards(10)</td><td>74/130</td><td>13</td><td>19</td><td>2</td><td>3</td><td>8</td><td colspan=\"2\"><span title=\"Imprisonment Pendant\">56</span></td><td colspan=\"2\"><span title=\"Swiftsoles\">42</span></td><td colspan=\"2\"><span title=\"Air Balloon\">52</span></td></tr><tr style=\"height:22px\"><td><b>P5</b></td><td>Falsasce</td><td>Pyrokinetic(10)/Hammer(10)</td><td>135/135</td><td>26</td><td>18</td><td>3</td><td>2</td><td>6</td><td colspan=\"2\"><span title=\"Swiftsoles\">42</span></td><td colspan=\"2\"><span title=\"Air Balloon\">52</span></td><td colspan=\"2\"><span title=\"Self-Destruct Button\">80</span></td></tr><tr style=\"height:22px\"><td><b>P6</b></td><td>4mat</td><td>Rifter(10)/Tarot Cards(10)</td><td>79/125</td><td>15</td><td>21</td><td>2</td><td>2</td><td>6</td><td><span title=\"Amber Amulet\">1</span></td><td colspan=\"2\"><span title=\"First Impression\">55</span></td><td colspan=\"2\"><span title=\"Swiftsoles\">42</span></td><td><span title=\"Soul Orb\">4</span></td></tr></table>"
+}
