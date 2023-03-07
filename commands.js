@@ -15,6 +15,8 @@ let uhtml = require('origindb')('uhtml');
 var http = require('http');
 var format = require('$format/misc');
 
+let stop = false;
+
 
 if (config.serverid === 'showdown') {
 	var https = require('https');
@@ -69,11 +71,6 @@ function reloadFunction(){
 
 exports.commands = {
 	hp: function(arg, user, room){
-		if (toID(arg) === "4mat") {
-			this.say(room, "/msgroom bd, /join groupchat-battledome-one");
-			this.say(room, "/msgroom bd, /join groupchat-battledome-two");
-			this.say(room, "/msgroom bd, /me td");
-		}
 	},
 	holirank: function(arg, user, room){
 		this.say(room, "/msgroom bd, /join groupchat-battledome-one");
@@ -81,9 +78,6 @@ exports.commands = {
 		this.say(room, "/msgroom bd, /join groupchat-battledome-three");
 	},
 	r: function(arg, user, room){
-		this.say(room, "/msgroom bd, /join groupchat-battledome-one");
-		this.say(room, "/msgroom bd, /join groupchat-battledome-two");
-		this.say(room, "/msgroom bd, /join groupchat-battledome-three");
 	},
 	Openbsu: 'openbsu',
 	openbsu: function (arg, user, room){
@@ -104,7 +98,7 @@ exports.commands = {
 		}
 		if(test === "abort" && turnorder.includes('4mat')) return this.say(room, '/me ffa');
 	},
-	bsu: function(arg, user, room){
+	/*bsu: function(arg, user, room){
 		var UHTMLcontents = format.getUHTMLcontents();
 		if(!UHTMLcontents.includes('Player Data')) return false;
 		let turnorder = UHTMLcontents.split('Turn Order: ')[1].split('</b>')[0].split(',');
@@ -117,12 +111,12 @@ exports.commands = {
 			if (element.includes(" (")) turnorder[i] = turnorder[i].split(" (")[0];
 		}
 
-		/*if (arg === "sub" && !turnorder.includes('4mat')) this.say(room, '/me in');*/
-	},
+		if (arg === "sub" && !turnorder.includes('4mat')) this.say(room, '/me in');
+	},*/
 	c: 'custom',
 	custom: function (arg, user, room) {
-		//if (!user.isExcepted()) return false;
-		//if (!(user.id === "sleepwalkinqqq" || 'Lunchmanjeff111')) return false;
+		if (!user.isExcepted()) return false;
+		if (!(user.id === "sleepwalkinqqq" || 'Lunchmanjeff111')) return false;
 		// Custom commands can be executed in an arbitrary room using the syntax
 		// ".custom [room] command", e.g., to do !data pikachu in the room lobby,
 		// the command would be ".custom [lobby] !data pikachu". However, using
@@ -157,12 +151,29 @@ exports.commands = {
 			this.say(room, e.name + ": " + e.message);
 		}
 	},
+	stopthis: function(arg, user, room){
+		stop = true;
+	},
+	startthis: function(arg, user, room){
+		stop = false;
+	},
+	/*grt: function(arg, user, room){
+		if(stop) return false;
+		this.say(room, '/pm oases, %c %grt');
+	},*/
 	cut: function(arg, user, room){
 		var userName = ""; let title = 'BDgame';
 		
 		var UHTMLcontents = format.getUHTMLcontents();
-		if(!UHTMLcontents.includes('Player Data')) return false;
-		let turnorder = UHTMLcontents.split('Turn Order: ')[1].split('</b>')[0].split(',');
+		timeStampOfContents = UHTMLcontents.split(" /")[0];
+		UHTMLcontents = UHTMLcontents.split(",");
+		UHTMLcontents.shift();
+		UHTMLcontents = UHTMLcontents.join(",");
+		UHTMLcontents = timeStampOfContents + UHTMLcontents;
+		let turnorder;
+		if(UHTMLcontents.includes('Player Data')){
+
+		turnorder = UHTMLcontents.split('Turn Order: ')[1].split('</b>')[0].split(',');
 		for (let i = 0; i < turnorder.length; i++) {
 			const element = turnorder[i];
 			if (element.includes("(RIP)")) {
@@ -171,24 +182,26 @@ exports.commands = {
 			}
 			if (element.includes(" (")) turnorder[i] = turnorder[i].split(" (")[0];
 		}
-		userName = turnorder[arg-1];
 
-		let weaponMoves = format.makeButtonsForWeapon('cards', 'santapler');
+		}
+		userName = turnorder[arg-1];
 
 		for (let i = 0; i < turnorder.length; i++) {
 			let htmlpageIntro = `/sendhtmlpage ${turnorder[i]}, ${title}`;
 			let returnStatement = `${htmlpageIntro}, ${UHTMLcontents} It's ${turnorder[arg-1]}'s turn`;
-			this.say(room, `/msgroom botdev, ${returnStatement}`)
-		}
-		let gaming = format.getClassAndWeapon(user.id);
+			this.say(room, `/msgroom botdev, ${returnStatement}`);
+		};
+		let gaming = format.getClassAndWeap(userName);
+	
+		let playerClass = gaming ? gaming.split('/')[0] : "Cryokinetic(10)"; 
+		let playerWeapon = gaming ? gaming.split('/')[1] : "Tarot Cards(10)";
+		playerClass = playerClass.replace(')','').split('(');
+		playerWeapon = playerWeapon.replace(')','').split('(');
 
-		return this.say(room, '/pm 4mat, ' + gaming);
+		let weaponMoves = format.makeButtonsForWeapon(toID(playerWeapon[0]), playerWeapon[1]);
 
 		let htmlpageIntro = `/sendhtmlpage ${userName}, ${title}`;
 		let returnStatement = `${htmlpageIntro}, ${UHTMLcontents} GO ${turnorder[arg-1]} <br> ${weaponMoves}`;
 		this.say(room, `/msgroom botdev, ${returnStatement}`);
-		this.say(room, "/msgroom bd, /join groupchat-battledome-one");
-		this.say(room, "/msgroom bd, /join groupchat-battledome-two");
-		this.say(room, "/msgroom bd, /join groupchat-battledome-three");
 	}
 }

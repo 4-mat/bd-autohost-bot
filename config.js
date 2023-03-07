@@ -17,8 +17,8 @@ exports.serverid = "showdown";
 
 // The nick and password to log in with
 // If no password is required, leave pass empty
-exports.nick = '4mat';
-exports.pass = 'lifelife1';
+exports.nick = 'thatcableguy';
+exports.pass = 'lifelife';
 
 // The rooms that should be joined.
 // Joining Smogon's Showdown's Lobby is not allowed.
@@ -33,7 +33,7 @@ exports.privaterooms = ['groupchat-lifehaxgamer-test'];
 // Note that using / and ! might be 'dangerous' since these are used in
 // Showdown itself.
 // Using only alphanumeric characters and spaces is not allowed.
-exports.commandcharacter = '%','^','!code %';
+exports.commandcharacter = '%';
 
 // The default rank is the minimum rank that can use a command in a room when
 // no rank is specified in settings.json
