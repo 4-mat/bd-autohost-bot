@@ -185,11 +185,13 @@ exports.commands = {
 
 		}
 		userName = turnorder[arg-1];
+		
+		let playerPosition = format.getPlayerPosition();
 
 		for (let i = 0; i < turnorder.length; i++) {
 			let htmlpageIntro = `/sendhtmlpage ${turnorder[i]}, ${title}`;
 			let returnStatement = `${htmlpageIntro}, ${UHTMLcontents} It's ${turnorder[arg-1]}'s turn`;
-			this.say(room, `/msgroom botdev, ${returnStatement}`);
+			this.say(room, `/msgroom botdev, ${returnStatement} <br> ${playerPosition}`);
 		};
 		let gaming = format.getClassAndWeap(userName);
 	
@@ -201,7 +203,8 @@ exports.commands = {
 		let weaponMoves = format.makeButtonsForWeapon(toID(playerWeapon[0]), playerWeapon[1]);
 
 		let htmlpageIntro = `/sendhtmlpage ${userName}, ${title}`;
-		let returnStatement = `${htmlpageIntro}, ${UHTMLcontents} GO ${turnorder[arg-1]} <br> ${weaponMoves}`;
+		
+		let returnStatement = `${htmlpageIntro}, ${UHTMLcontents} GO ${turnorder[arg-1]} <br> ${weaponMoves} <br> ${playerPosition}`;
 		this.say(room, `/msgroom botdev, ${returnStatement}`);
 	}
 }
