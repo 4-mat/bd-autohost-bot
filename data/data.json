@@ -1,6 +1,9 @@
 {
     "Classes": [
       {
+        "Name": "Basic Abilities"
+      },
+      {
         "Name": "Basic Attack (P) / Basic Attack (M)",
         "Lvl": "B",
         "Frequency": "Every Turn",
