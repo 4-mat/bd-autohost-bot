@@ -1,9 +1,6 @@
 {
     "Classes": [
       {
-        "Name": "Basic Abilities"
-      },
-      {
         "Name": "Basic Attack (P) / Basic Attack (M)",
         "Lvl": "B",
         "Frequency": "Every Turn",
@@ -54,12 +51,6 @@
         "Group": "Foe",
         "Range and Modifiers": "Melee",
         "Effect": "When a foe in the user's melee either leaves that melee with their movement action, or uses a ranged attack that doesn't target the user, the user may use this move to perform a Basic Attack on them."
-      },
-      {
-        "Name": "Class Abilities"
-      },
-      {
-        "Range and Modifiers": " "
       },
       {
         "Name": "Bard"
