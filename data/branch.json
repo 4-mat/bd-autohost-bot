@@ -8,5 +8,7 @@
 	"celestial": ["Celestial","Star Rod","Lunar Rod", "Solar Rod"],
 	"regal": ["Regal","Crown","Talisman","Runes"],
 	"sorcerer": ["Sorcerer","Wand","Shillelagh","Spellbook"],
-	"alert": ["Alert", "Wall"]
+	"alert": ["Alert", "Wall"],
+	"weapon": ["Dueler","Katana","Rapier","Gladius","Heavy","Hammer","Axe","Tomahawk","Archer","Longbow","Shortbow","Crossbow","Fighter","Tonfa","Claws","Bo Staff","Clairvoyant","Orb","Tarot Cards","Pendulum","Dark", "Athame", "Chalice", "Scythe","Celestial","Star Rod","Lunar Rod", "Solar Rod","Regal","Crown","Talisman","Runes","Sorcerer","Wand","Shillelagh","Spellbook"],
+	"class": ["Bard","Cryokinetic","Guard","Pyrokinetic","Rifter","Skirmisher"]
 }
