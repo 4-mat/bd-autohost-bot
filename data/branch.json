@@ -1,0 +1,12 @@
+{
+	"dueler": ["Dueler","Katana","Rapier","Gladius"],
+	"heavy": ["Heavy","Hammer","Axe","Tomahawk"],
+	"archer": ["Archer","Longbow","Shortbow","Crossbow"],
+	"fighter": ["Fighter","Tonfa","Claws","Bo Staff"],
+	"clairvoyant": ["Clairvoyant","Orb","Tarot Cards","Pendulum"],
+	"dark": ["Dark", "Athame", "Chalice", "Scythe"],
+	"celestial": ["Celestial","Star Rod","Lunar Rod", "Solar Rod"],
+	"regal": ["Regal","Crown","Talisman","Runes"],
+	"sorcerer": ["Sorcerer","Wand","Shillelagh","Spellbook"],
+	"alert": ["Alert", "Wall"]
+}

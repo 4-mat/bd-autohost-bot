@@ -137,7 +137,7 @@
         "Amount": "-",
         "Group": "-",
         "Range and Modifiers": "-",
-        "Effect": "When targeted with a non- Free, Swift, or Global attack from a foe, the user gains an Ice Stack (max three) after the move is resolved. Only two Ice Stacks may be gained per round.\r\n\r\nIf the accuracy roll of an attack targeting the user rolls X+, that attack loses one die, where X = 15 - # of Ice Stacks."
+        "Effect": "When targeted with a non- Free, Swift, or Global attack from a foe, the user gains an Ice Stack (max three) after the move is resolved. Only two Ice Stacks may be gained per round.If the accuracy roll of an attack targeting the user rolls X+, that attack loses one die, where X = 15 - # of Ice Stacks."
       },
       {
         "Name": "Mist",
@@ -273,7 +273,7 @@
         "Amount": "-",
         "Group": "-",
         "Range and Modifiers": "-",
-        "Effect": "When targetting a foe with a non- Free, Swift, or Global attack, the user gains a Fire Stack (max three) after the move is resolved. After gaining a Fire Stack, the user may not gain another one until the start of their next turn.\r\n\r\nIf the accuaracy roll of an attack by the user rolls X+, that attack gains one die, where X = 15 - # of Fire Stacks the user has."
+        "Effect": "When targetting a foe with a non- Free, Swift, or Global attack, the user gains a Fire Stack (max three) after the move is resolved. After gaining a Fire Stack, the user may not gain another one until the start of their next turn.If the accuaracy roll of an attack by the user rolls X+, that attack gains one die, where X = 15 - # of Fire Stacks the user has."
       },
       {
         "Name": "Comet",
@@ -640,7 +640,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Line 6\r\n(Push X)",
+        "Range and Modifiers": "Line 6(Push X)",
         "Effect": "This move has Push X, where X is the amount of Marks the target has. If the target is unable to be pushed the full distance, the target gains another Mark."
       },
       {
@@ -747,7 +747,7 @@
         "Action Type": "Standard",
         "Amount": "AoE",
         "Group": "Foes",
-        "Range and Modifiers": "Cone 1\r\n(Push 3)",
+        "Range and Modifiers": "Cone 1(Push 3)",
         "Effect": "Targets are pushed in the direction of the cone. For one round, the user is immune to being moved by other players and immune to damage from effects dependent on Push/Pull."
       },
       {
@@ -761,7 +761,7 @@
         "Amount": 1,
         "Group": "Foe",
         "Range and Modifiers": "Range 8",
-        "Effect": " If the target has fulfilled both the below conditions during the last two rounds, this attack gains +3 dice:\r\n - Not targeted another player with a non-global attack\r\n - Not taken more than 20 damage from a single source.\r\n This move cannot be used during the first two rounds of the game."
+        "Effect": " If the target has fulfilled both the below conditions during the last two rounds, this attack gains +3 dice: - Not targeted another player with a non-global attack - Not taken more than 20 damage from a single source. This move cannot be used during the first two rounds of the game."
       },
       {
         "Name": "Tranquil Technique",
@@ -786,7 +786,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Range 6\r\n(Double Hit)",
+        "Range and Modifiers": "Range 6(Double Hit)",
         "Effect": "If the user is debuffed from effects originating from foes, this attack ignores those debuffs that the user has and hits thrice instead."
       },
       {
@@ -799,7 +799,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foes",
-        "Range and Modifiers": "Range 6\r\n(Splash 1)",
+        "Range and Modifiers": "Range 6(Splash 1)",
         "Effect": "Foes hit are inflicted with any status effects the user has. The user may choose to target an empty space instead of a player for -3 accuracy on this attack."
       },
       {
@@ -841,7 +841,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Range 4\r\n(Double Hit)",
+        "Range and Modifiers": "Range 4(Double Hit)",
         "Effect": "For each successful hit, the user gains +2 damage on their next attack."
       },
       {
@@ -919,7 +919,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Range 4\r\n(Pull 3)",
+        "Range and Modifiers": "Range 4(Pull 3)",
         "Effect": "The user may choose between pulling the target towards the user or pulling the user toward the target. This move can be used as a non-damaging standard on any non-player obstruction to pull the user to the target. If the user's accuracy is raised by at least two this turn, this move is immune to negative outside factors to damage."
       },
       {
@@ -945,7 +945,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Range 4\r\n(Triple Hit)",
+        "Range and Modifiers": "Range 4(Triple Hit)",
         "Effect": "For each successful hit of this attack, subsequent hits gain +1 accuracy and +1 crit range."
       },
       {
@@ -958,7 +958,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Range 4\r\n(Quadruple Hit)",
+        "Range and Modifiers": "Range 4(Quadruple Hit)",
         "Effect": "This attack critical hits on 18+ and is immune to positive outside factors to damage. Critical hits on this move have triple instead of double base dice. "
       }
     ],
@@ -1165,7 +1165,7 @@
         "Amount": 1,
         "Group": "Foe",
         "Range and Modifiers": "Melee",
-        "Effect": "This move has a different effect based on the phase it's used in:\r\nNew Moon: The target is Sealed/1\r\nWaxing (Push 2): If the target can't be pushed fully, they take 15 extra damage.\r\nFull Moon: All the target's AoE moves are single target for one round.\r\nWaning: This attack has bomb dice."
+        "Effect": "This move has a different effect based on the phase it's used in:New Moon: The target is Sealed/1Waxing (Push 2): If the target can't be pushed fully, they take 15 extra damage.Full Moon: All the target's AoE moves are single target for one round.Waning: This attack has bomb dice."
       },
       {
         "Name": "Solar Rod"
@@ -1232,7 +1232,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Homing 5\r\n(Splash 1)",
+        "Range and Modifiers": "Homing 5(Splash 1)",
         "Effect": "For every target in range that is Burned, this attack gains a die."
       },
       {
@@ -1417,7 +1417,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Global\r\n(Triple Hit)",
+        "Range and Modifiers": "Global(Triple Hit)",
         "Effect": "If in Exotic Star, and at least 2 hit, the target is inflicted with 3 Cripple/1; if 3 hit, the target is inflicted with 6 Cripple/1. If in Sequence Star, this move has Push X where X = Hits - 1. Do not add MAG. Immune to outside factors."
       },
       {
@@ -1571,7 +1571,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Homing 5\r\n(Splash 1)",
+        "Range and Modifiers": "Homing 5(Splash 1)",
         "Effect": "Before accuracy, the user may choose to give this move Delay-1. If they do, it loses Splash, but the user gains +5 DR until the move deals damage."
       },
       {
@@ -1782,7 +1782,7 @@
         "Action Type": "Standard",
         "Amount": 2,
         "Group": "Foes",
-        "Range and Modifiers": "Line 3\r\n(Push 1)",
+        "Range and Modifiers": "Line 3(Push 1)",
         "Effect": "Both targets are inflicted with Confusion/1. If both targets have successfully hit the user with a Standard/Full attack in the last round, one of them (chosen by the user) is also Sealed/1. The seal's duration cannot be increased."
       },
       {
@@ -1809,7 +1809,7 @@
         "Amount": "AoE",
         "Group": "Foes",
         "Range and Modifiers": "Cone 2",
-        "Effect": "The user can spend 1 Momentum per effect to give this ability any combination of the following effects: \r\n\r\n- Make this attack Burst 2,\r\n- Use this move as a Standard,\r\n- Reduce the damage of the next Standard/Full attack of each target hit by 2d4+3,\r\n- Inflict Confusion/2 to every target hit.\r\n\r\nIf this attack misses more than one target as a Standard, the user gains one Momentum."
+        "Effect": "The user can spend 1 Momentum per effect to give this ability any combination of the following effects: - Make this attack Burst 2,- Use this move as a Standard,- Reduce the damage of the next Standard/Full attack of each target hit by 2d4+3,- Inflict Confusion/2 to every target hit.If this attack misses more than one target as a Standard, the user gains one Momentum."
       },
       {
         "Name": "Hypnotic Daze",
@@ -1981,7 +1981,7 @@
         "Amount": 1,
         "Group": "Foe",
         "Range and Modifiers": "Melee",
-        "Effect": "In place of an accuracy roll, roll a 1d14 for an effect. \r\n1 = Set the user's HP to 1,\r\n2 = The user is Stunned next turn and Stacked Deck deals no damage, \r\n3 = The opponent is healed by the roll, \r\n4 = The attack misses, \r\n5 = 0.5x damage, \r\n6 = This user takes recoil equal to half the damage dealt by this attack, \r\n7 = Cleanse all statuses and numerical debuffs from the user & reset their other moves' frequencies,\r\n8 = This attack has bomb dice,\r\n9 = Inflict 5 Burn, Bleed & Poison/1 on the target (stacks with other statuses) for one turn,\r\n10 = The user stores a reroll of a Cards non-1d20 secondary effect,\r\n11 = Inflicts 1.5x damage,\r\n12 = Target is Sealed/1, \r\n13 = Target is Stunned/1, \r\n14 = This attack has unremovable thrice dice."
+        "Effect": "In place of an accuracy roll, roll a 1d14 for an effect. 1 = Set the user's HP to 1,2 = The user is Stunned next turn and Stacked Deck deals no damage, 3 = The opponent is healed by the roll, 4 = The attack misses, 5 = 0.5x damage, 6 = This user takes recoil equal to half the damage dealt by this attack, 7 = Cleanse all statuses and numerical debuffs from the user & reset their other moves' frequencies,8 = This attack has bomb dice,9 = Inflict 5 Burn, Bleed & Poison/1 on the target (stacks with other statuses) for one turn,10 = The user stores a reroll of a Cards non-1d20 secondary effect,11 = Inflicts 1.5x damage,12 = Target is Sealed/1, 13 = Target is Stunned/1, 14 = This attack has unremovable thrice dice."
       }
     ],
     "Dark": [
@@ -2203,7 +2203,7 @@
         "Amount": "-",
         "Group": "-",
         "Range and Modifiers": "-",
-        "Effect": "While active, the user's Blood tile creates a Blood Storm effect in Burst 1 of the tile. Foes must use an additional MP to exit the Blood Storm. \r\n\r\nIf the user is within Range 3 of their Blood tile, they may choose to have their abilities originate from the Blood tile. By doing so, the attack gains +3 damage and attacks classified as Range/Homing/Line have -1 range."
+        "Effect": "While active, the user's Blood tile creates a Blood Storm effect in Burst 1 of the tile. Foes must use an additional MP to exit the Blood Storm. If the user is within Range 3 of their Blood tile, they may choose to have their abilities originate from the Blood tile. By doing so, the attack gains +3 damage and attacks classified as Range/Homing/Line have -1 range."
       },
       {
         "Name": "Blood Storm",
@@ -2497,10 +2497,10 @@
     ],
     "Dueler": [
       {
-        "\r\nName": "Basic Abilities"
+        "Name": "Basic Abilities"
       },
       {
-        "\r\nName": "Basic Attack (P) / Basic Attack (M)",
+        "Name": "Basic Attack (P) / Basic Attack (M)",
         "Lvl": "B",
         "Frequency": "Every Turn",
         "MR": 2,
@@ -2513,7 +2513,7 @@
         "Effect": "A basic attack. The user may choose either BATK (P) or BATK (M). Add the corresponding stat depending on their choice (BATK (P) = Physical Attack. BATK (M) = Magical Attack).This attack can be used even when sealed and its use cannot be prevented by any means, outside of Stun."
       },
       {
-        "\r\nName": "Dash",
+        "Name": "Dash",
         "Lvl": "B",
         "Frequency": "Every Turn",
         "MR": "-",
@@ -2526,7 +2526,7 @@
         "Effect": "The user may move up to 1.5x their MP (rounded down) instead of 1x. (Dash is a Full Action, which takes up both the movement and standard actions.)"
       },
       {
-        "\r\nName": "Backstep",
+        "Name": "Backstep",
         "Lvl": "B",
         "Frequency": "Every Turn",
         "MR": "-",
@@ -2539,7 +2539,7 @@
         "Effect": "The user moves one tile in a cardinal direction without triggering Attack of Opportunity.  This can only be used when adjacent to a foe."
       },
       {
-        "\r\nName": "Attack of Opportunity",
+        "Name": "Attack of Opportunity",
         "Lvl": "B",
         "Frequency": "Every Turn",
         "MR": "-",
@@ -2552,13 +2552,13 @@
         "Effect": "When a foe in the user's melee either leaves that melee with their movement action, or uses a ranged attack that doesn't target the user, the user may use this move to perform a Basic Attack on them."
       },
       {
-        "\r\nName": "Dueler Abilities"
+        "Name": "Dueler Abilities"
       },
       {
-        "\r\nName": "Gladius"
+        "Name": "Gladius"
       },
       {
-        "\r\nName": "Weapon Swap",
+        "Name": "Weapon Swap",
         "Lvl": 1,
         "Frequency": "EoT",
         "MR": "-",
@@ -2571,7 +2571,7 @@
         "Effect": "The user may switch to Gladius, Scutum or Pilum. (The user starts the game in Gladius). "
       },
       {
-        "\r\nName": "Exercitus",
+        "Name": "Exercitus",
         "Lvl": 1,
         "Frequency": "Every Turn",
         "MR": 3,
@@ -2584,7 +2584,7 @@
         "Effect": "If the user is Gladius, this deals +3 damage. If Scutum, the user gains 3 DR/1. If Pilum, this move has -1 MR."
       },
       {
-        "\r\nName": "Opening Strike",
+        "Name": "Opening Strike",
         "Lvl": 2,
         "Frequency": "EoT",
         "MR": 4,
@@ -2597,7 +2597,7 @@
         "Effect": "If the user is in Pilum, the target is inflicted with Confusion/1, and if the user is in Scutum, the target is inflicted with 5/1 Bleed. If not already in Gladius, the user automatically switches to it."
       },
       {
-        "\r\nName": "Forward Jab",
+        "Name": "Forward Jab",
         "Lvl": 3,
         "Frequency": "EoT",
         "MR": 3,
@@ -2607,10 +2607,10 @@
         "Amount": 1,
         "Group": "Foe",
         "Range and Modifiers": "Melee",
-        "Effect": "This move has a different effect depending on the user's weapon.\r\nGladius = +5 damage\r\nScutum = The target's next standard/full attack loses 5 damage.\r\nPilum = This move may be made AoE/Foes/Line 4 instead."
+        "Effect": "This move has a different effect depending on the user's weapon.Gladius = +5 damageScutum = The target's next standard/full attack loses 5 damage.Pilum = This move may be made AoE/Foes/Line 4 instead."
       },
       {
-        "\r\nName": "Shield Wall",
+        "Name": "Shield Wall",
         "Lvl": 4,
         "Frequency": "Thrice/EoT",
         "MR": 4,
@@ -2623,7 +2623,7 @@
         "Effect": "The user must be in Gladius or Pilum to use this move, and may be used as a non-damaging standard on the user. The user automatically switches to Scutum and only takes 75% damage from foes' attacks for one round."
       },
       {
-        "\r\nName": "Invigorate",
+        "Name": "Invigorate",
         "Lvl": 5,
         "Frequency": "Thrice/EoT",
         "MR": "-",
@@ -2633,10 +2633,10 @@
         "Amount": "AoE",
         "Group": "Self and Allies",
         "Range and Modifiers": "Burst 2",
-        "Effect": "This move has a different effect depending on the user's weapon.\r\nGladius: The targets' next attack deals additional damage equal to 10% of the damage dealt on the user's last attack.\r\nScutum: Targets gain DR for one round equal to 15% of the damage that all targets collectively did on their last attacks.\r\nPilum: The targets' gain bonus accuracy on their next attack equal to 8% (rounded down) of the damage they dealt on their last attack."
+        "Effect": "This move has a different effect depending on the user's weapon.Gladius: The targets' next attack deals additional damage equal to 10% of the damage dealt on the user's last attack.Scutum: Targets gain DR for one round equal to 15% of the damage that all targets collectively did on their last attacks.Pilum: The targets' gain bonus accuracy on their next attack equal to 8% (rounded down) of the damage they dealt on their last attack."
       },
       {
-        "\r\nName": "Disengage",
+        "Name": "Disengage",
         "Lvl": 6,
         "Frequency": "Twice/EoT",
         "MR": 4,
@@ -2649,7 +2649,7 @@
         "Effect": "The user is pushed back one space. If the user is in Gladius, foes who enter the user's melee before the user's next turn take 5 damage. If the user is in Scutum, the user does not take damage from AoE attacks for one round. The user automatically switches to Pilum."
       },
       {
-        "\r\nName": "Weapon Crash",
+        "Name": "Weapon Crash",
         "Lvl": 7,
         "Frequency": "Twice/EoT",
         "MR": 4,
@@ -2659,10 +2659,10 @@
         "Amount": "Varies",
         "Group": "Foe(s)",
         "Range and Modifiers": "Varies",
-        "Effect": "This move has a different range and effect depending on the user's weapon.\r\nGladius: One/Foe/Melee range, and inflicts 10 Bleed/1\r\nScutum: AoE/Foes/Cone 2, and has 3 Push\r\nPilum: AoE/Foes/Line 3, and inflicts 6 Cripple/1\r\nIf the user is under the effects of Dual Wield, the user may pick any range and effect from their two weapon effects from this move."
+        "Effect": "This move has a different range and effect depending on the user's weapon.Gladius: One/Foe/Melee range, and inflicts 10 Bleed/1Scutum: AoE/Foes/Cone 2, and has 3 PushPilum: AoE/Foes/Line 3, and inflicts 6 Cripple/1If the user is under the effects of Dual Wield, the user may pick any range and effect from their two weapon effects from this move."
       },
       {
-        "\r\nName": "Dual Wield",
+        "Name": "Dual Wield",
         "Lvl": 8,
         "Frequency": "Twice/EoT",
         "MR": "-",
@@ -2675,7 +2675,7 @@
         "Effect": "The user benefits from the effects of any two weapons (Gladius/Scutum/Pilum) this turn, they regain the effects of only the original weapon after the end of their turn."
       },
       {
-        "\r\nName": "Imperial Might",
+        "Name": "Imperial Might",
         "Lvl": 9,
         "Frequency": "Twice/EoT",
         "MR": 4,
@@ -2688,7 +2688,7 @@
         "Effect": " If the user is in Gladius, the user gains 15% of this attack's damage as +damage for one round. If the user is in Scutum, the user gains immunity to statuses and debuffs for one round and is cured from them (before accuracy). If the user is in Pilum, the target's evasions are reduced to 0 for one round."
       },
       {
-        "\r\nName": "Iberian Steel",
+        "Name": "Iberian Steel",
         "Lvl": 10,
         "Frequency": "Once",
         "MR": 5,
@@ -2701,10 +2701,10 @@
         "Effect": "This attack gains +2X dice where X is the amount of times the user has used (i. e. targeted someone with a gladius ability) their least used weapon."
       },
       {
-        "\r\nName": "Katana"
+        "Name": "Katana"
       },
       {
-        "\r\nName": "Fallen Blade",
+        "Name": "Fallen Blade",
         "Lvl": 1,
         "Frequency": "Passive",
         "MR": "-",
@@ -2714,10 +2714,10 @@
         "Amount": "-",
         "Group": "-",
         "Range and Modifiers": "-",
-        "Effect": "For every 25% (rounded down) below the user's max HP, gain 1 Enrage counter. (Each counter can only be acquired once, even if the user heals above a 25% threshold.) \r\nKatana abilities have bonus dice equal to the amount of Enrage counters the user has."
+        "Effect": "For every 25% (rounded down) below the user's max HP, gain 1 Enrage counter. (Each counter can only be acquired once, even if the user heals above a 25% threshold.) Katana abilities have bonus dice equal to the amount of Enrage counters the user has."
       },
       {
-        "\r\nName": "Cursed Slice",
+        "Name": "Cursed Slice",
         "Lvl": 1,
         "Frequency": "Every Turn",
         "MR": 3,
@@ -2730,7 +2730,7 @@
         "Effect": "If the user has 1 Enrage counter, this attack may be used when sealed. If the user has at least 2 Enrage counters, this may be used regardless of any statuses or move effects (except stun)."
       },
       {
-        "\r\nName": "Lunge",
+        "Name": "Lunge",
         "Lvl": 2,
         "Frequency": "Every Turn",
         "MR": 3,
@@ -2743,7 +2743,7 @@
         "Effect": "For every enrage counter the user has, this move gains +1 ACC. The user moves as close to the target as possible."
       },
       {
-        "\r\nName": "Provoke",
+        "Name": "Provoke",
         "Lvl": 3,
         "Frequency": "EoT",
         "MR": 3,
@@ -2756,7 +2756,7 @@
         "Effect": "If the target doesn't roll at least 35 damage with an attack that targets the user on their next turn the user gains one Enrage counter."
       },
       {
-        "\r\nName": "Revenge",
+        "Name": "Revenge",
         "Lvl": 4,
         "Frequency": "Twice",
         "MR": "-",
@@ -2769,7 +2769,7 @@
         "Effect": "The user gains +damage on their next standard/full attack equal to X% of the damage they took from one of the targets since the beginning of the user's last turn. X is ten times the amount of Enrage counters the user has. If the user has at least 2 Enrage counters this ability may be used as a Trigger action, but Revenge can only be used once per turn."
       },
       {
-        "\r\nName": "Sharpen",
+        "Name": "Sharpen",
         "Lvl": 5,
         "Frequency": "Once",
         "MR": 3,
@@ -2782,7 +2782,7 @@
         "Effect": "If this attack kills the target, the user gains one Enrage counter and another use on this move."
       },
       {
-        "\r\nName": "Costly Swing",
+        "Name": "Costly Swing",
         "Lvl": 6,
         "Frequency": "Twice",
         "MR": 4,
@@ -2795,7 +2795,7 @@
         "Effect": "The user takes X more damage from all attacks until the start of their next turn, where X is 10 minus twice the amount of the Enrage counters the user has (minimum 0)."
       },
       {
-        "\r\nName": "Bushido",
+        "Name": "Bushido",
         "Lvl": 7,
         "Frequency": "Twice/EoT",
         "MR": 4,
@@ -2808,7 +2808,7 @@
         "Effect": "If the user has at least one Enrage counter, they are cleansed from any statuses and debuffs (before accuracy). If they have two counters, the user can choose for this move to be Aoe/Foes/Burst 1. If they have 3, this move can be Burst 2."
       },
       {
-        "\r\nName": "Rising Sun",
+        "Name": "Rising Sun",
         "Lvl": 8,
         "Frequency": "Once",
         "MR": 4,
@@ -2821,7 +2821,7 @@
         "Effect": "The user gains a Shield equal to X% of this attack's damage, where X is five times the amount of Enrage counters the user has."
       },
       {
-        "\r\nName": "Delirium Slash",
+        "Name": "Delirium Slash",
         "Lvl": 9,
         "Frequency": "Twice/EoT",
         "MR": 4,
@@ -2834,7 +2834,7 @@
         "Effect": "This attack has doubled bonus dice from Fallen Blade, and the user takes recoil equal to the damage dealt by the extra bonus dice. If the recoil would kill the user, they are left at 1 HP instead."
       },
       {
-        "\r\nName": "Giant Slayer",
+        "Name": "Giant Slayer",
         "Lvl": 10,
         "Frequency": "Once",
         "MR": 5,
@@ -2847,10 +2847,10 @@
         "Effect": "If the target has at least 40 more HP than the user, Fallen Blade dice on this move are converted into bonus damage equal to ten times the number of Enrage counters the user has."
       },
       {
-        "\r\nName": "Rapier"
+        "Name": "Rapier"
       },
       {
-        "\r\nName": "Point-in-Line",
+        "Name": "Point-in-Line",
         "Lvl": 1,
         "Frequency": "Every Turn",
         "MR": 2,
@@ -2863,7 +2863,7 @@
         "Effect": "This attack can be used even when sealed."
       },
       {
-        "\r\nName": "Counter",
+        "Name": "Counter",
         "Lvl": 2,
         "Frequency": "EoT",
         "MR": 2,
@@ -2876,7 +2876,7 @@
         "Effect": "This move may be used on a foe hitting the user in Melee range, after accuracy has been rolled. The foe's attack loses 3 damage (5 damage if the player used Feint on their last turn). This ability is immune to non-Rapier outside factors to damage and does not add ATK."
       },
       {
-        "\r\nName": "Thrust",
+        "Name": "Thrust",
         "Lvl": 3,
         "Frequency": "Every Turn",
         "MR": 3,
@@ -2889,7 +2889,7 @@
         "Effect": "The user moves to a spot adjacent, but not diagonally, to the target. If the user cannot enter the target's Melee, they move as close to the target as possible. If the target was at full HP, they are inflicted with 5 Bleed/1."
       },
       {
-        "\r\nName": "Deflect",
+        "Name": "Deflect",
         "Lvl": 4,
         "Frequency": "EoT",
         "MR": 2,
@@ -2902,7 +2902,7 @@
         "Effect": "This move may be used on a foe attacking the user from range, after accuracy has been rolled. The user gains 2 DR (4 DR if the user is under the effects of En Garde) for the duration of the attack this is used on. This ability is immune to non-Rapier outside factors to damage and does not add ATK."
       },
       {
-        "\r\nName": "Feint",
+        "Name": "Feint",
         "Lvl": 5,
         "Frequency": "Twice/EoT",
         "MR": 4,
@@ -2915,7 +2915,7 @@
         "Effect": "The user's next Reaction deals an additional 1d6+5 damage."
       },
       {
-        "\r\nName": "En Garde",
+        "Name": "En Garde",
         "Lvl": 6,
         "Frequency": "Thrice/EoT",
         "MR": "-",
@@ -2928,7 +2928,7 @@
         "Effect": "For one round, the user gains 5 DR, and their Reaction moves become MR 0."
       },
       {
-        "\r\nName": "Moulinet",
+        "Name": "Moulinet",
         "Lvl": 7,
         "Frequency": "EoT",
         "MR": 3,
@@ -2941,7 +2941,7 @@
         "Effect": "The user's Reaction abilities ignore evasions for one round."
       },
       {
-        "\r\nName": "Riposte",
+        "Name": "Riposte",
         "Lvl": 8,
         "Frequency": "Every Turn",
         "MR": 2,
@@ -2954,7 +2954,7 @@
         "Effect": "This may be used on a foe in melee range that missed an attack on the user. This ability is immune to non-Rapier outside factors to damage and does not add ATK."
       },
       {
-        "\r\nName": "Patinando",
+        "Name": "Patinando",
         "Lvl": 9,
         "Frequency": "Twice/EoT",
         "MR": 4,
@@ -2967,7 +2967,7 @@
         "Effect": "The user picks Fast or Slow. Fast: The user's next Reaction grants them +2 evasions until the end of the target's next turn. Slow: The user's next reaction gives them 10 DR for the duration of the attack it is used on."
       },
       {
-        "\r\nName": "Parry",
+        "Name": "Parry",
         "Lvl": 10,
         "Frequency": "Once",
         "MR": 5,
@@ -3250,7 +3250,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Melee\r\n(Triple Hit)",
+        "Range and Modifiers": "Melee(Triple Hit)",
         "Effect": "This move ignores outside negative damage factors."
       },
       {
@@ -3589,7 +3589,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Line 4\r\n(Pull 3)",
+        "Range and Modifiers": "Line 4(Pull 3)",
         "Effect": "The user gains an additional stack of Rage from this attack."
       },
       {
@@ -3667,7 +3667,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Melee\r\n(Splash 1)",
+        "Range and Modifiers": "Melee(Splash 1)",
         "Effect": "This attack deals an additional X damage, where X = the number of Rage stacks the user has * 4. On a hit, the user then loses all of their Rage stacks."
       },
       {
@@ -3696,7 +3696,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Range 3\r\n(Splash 1)",
+        "Range and Modifiers": "Range 3(Splash 1)",
         "Effect": "The user moves as close to the original target as possible, and the original target is Slowed/1."
       },
       {
@@ -3709,7 +3709,7 @@
         "Action Type": "Standard",
         "Amount": "AoE",
         "Group": "Foes",
-        "Range and Modifiers": "Line 3\r\n(Double Hit)",
+        "Range and Modifiers": "Line 3(Double Hit)",
         "Effect": "-"
       },
       {
@@ -3735,7 +3735,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Melee\r\n(Push 2)",
+        "Range and Modifiers": "Melee(Push 2)",
         "Effect": "The target is pushed 2 tiles away. If the target cannot be pushed the full distance, this attack deals an extra 1d10+4. This extra damage is also dealt to the obstruction, if it is an entity."
       },
       {
@@ -3748,7 +3748,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Melee\r\n(Splash 1)",
+        "Range and Modifiers": "Melee(Splash 1)",
         "Effect": "Within Burst 2 of the melee target, the user may choose to replace up to 3 unoccupied tiles with broken. These broken tiles last 3 rounds, until the user decides to remove them, or until the user dies."
       },
       {
@@ -3787,7 +3787,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Melee\r\n(Splash 2)",
+        "Range and Modifiers": "Melee(Splash 2)",
         "Effect": "The user may push any foe within Burst 2 of the target one space away from the target."
       },
       {
@@ -3800,7 +3800,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Melee\r\n(Splash 1)",
+        "Range and Modifiers": "Melee(Splash 1)",
         "Effect": "Before accuracy, the user may choose an entity within Splash 2 and pull into any tile in Splash 1. This pull ignores the user."
       },
       {
@@ -3894,7 +3894,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Melee\r\n(Push 1)",
+        "Range and Modifiers": "Melee(Push 1)",
         "Effect": "Foes cannot enter the user's melee for one round."
       },
       {
@@ -3920,7 +3920,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Range 4 \r\n(Push 1)",
+        "Range and Modifiers": "Range 4 (Push 1)",
         "Effect": "This attack has Splash 1 if used outside of Range 3."
       },
       {
@@ -4259,7 +4259,7 @@
         "Action Type": "Standard",
         "Amount": 2,
         "Group": "Foes",
-        "Range and Modifiers": "Range 3\r\n(Double Hit)",
+        "Range and Modifiers": "Range 3(Double Hit)",
         "Effect": "This move inflicts 2d4+5 DoT on the targets for 2 rounds. If neither hit misses a target, that target has -1 Evasions until this move's DoT expires."
       },
       {
@@ -4286,7 +4286,7 @@
         "Amount": 1,
         "Group": "Foe",
         "Range and Modifiers": "Varies",
-        "Effect": "Choose Isaz or Kenaz. Isaz: Homing 5. The target is inflicted with -2 EVAs/1 and \r\n-3 DR/1. Kenaz: Line 5. The user's active DoT effects on the target are extended by 1 round. Until those DoT effects expire, the target is inflicted with -2 ACC and -3 DMG."
+        "Effect": "Choose Isaz or Kenaz. Isaz: Homing 5. The target is inflicted with -2 EVAs/1 and -3 DR/1. Kenaz: Line 5. The user's active DoT effects on the target are extended by 1 round. Until those DoT effects expire, the target is inflicted with -2 ACC and -3 DMG."
       },
       {
         "Name": "Inveita",
@@ -4431,7 +4431,7 @@
         "Action Type": "Standard",
         "Amount": 2,
         "Group": "Foe(s)",
-        "Range and Modifiers": "Melee\r\n(Double Hit)",
+        "Range and Modifiers": "Melee(Double Hit)",
         "Effect": "The user is inflicted with -3 DMG and -1 ACC for one round. If the user rolls 16+ on accuracy on one of the hits, these effects are negated. If the user rolls 16+ on accuracy on both hits, the debuffs are instead inverted."
       },
       {
@@ -4809,7 +4809,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foes",
-        "Range and Modifiers": "Range 4\r\n(Splash 1)",
+        "Range and Modifiers": "Range 4(Splash 1)",
         "Effect": "On the user's next turn, the user may choose to gain +10 damage, +3 accuracy, or +2 MP for that turn."
       },
       {
@@ -4890,7 +4890,7 @@
         "Action Type": "Standard",
         "Amount": 1,
         "Group": "Foe",
-        "Range and Modifiers": "Range 3 \r\n(Triple Hit)",
+        "Range and Modifiers": "Range 3 (Triple Hit)",
         "Effect": "On accuracy rolls of 16+ this move gains an additional hit (max of 6 total hits). The user may sacrifice up to 8 HP to gain half that amount as +accuracy on this attack. This move is immune to outside factors to accuracy."
       },
       {

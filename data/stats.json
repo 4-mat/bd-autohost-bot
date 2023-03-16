@@ -1,0 +1,303 @@
+{
+    "Class Stats": [
+        {
+            "Class": "Bard",
+            "HP": 80,
+            "A": 6,
+            "M": 6,
+            "PD": 22,
+            "MD": 22,
+            "MP": 3
+        },
+        {
+            "Class": "Cryokinetic",
+            "HP": 75,
+            "A": 7,
+            "M": 7,
+            "PD": 21,
+            "MD": 21,
+            "MP": 3
+        },
+        {
+            "Class": "Guardian",
+            "HP": 85,
+            "A": 5,
+            "M": 5,
+            "PD": 30,
+            "MD": 30,
+            "MP": 3
+        },
+        {
+            "Class": "Pyrokinetic",
+            "HP": 65,
+            "A": 11,
+            "M": 11,
+            "PD": 16,
+            "MD": 16,
+            "MP": 3
+        },
+        {
+            "Class": "Rifter",
+            "HP": 60,
+            "A": 9,
+            "M": 9,
+            "PD": 19,
+            "MD": 19,
+            "MP": 3
+        },
+        {
+            "Class": "Skirmisher",
+            "HP": 65,
+            "A": 8,
+            "M": 8,
+            "PD": 20,
+            "MD": 20,
+            "MP": 4
+        }
+    ],
+    "Weapon Stats": [
+        {
+            "Weapon": "Crossbow",
+            "HP": 65,
+            "A": 11,
+            "M": 7,
+            "PD": 13,
+            "MD": 14,
+            "MP": 1
+        },
+        {
+            "Weapon": "Longbow",
+            "HP": 65,
+            "A": 12,
+            "M": 2,
+            "PD": 6,
+            "MD": 6,
+            "MP": 1
+        },
+        {
+            "Weapon": "Shortbow",
+            "HP": 60,
+            "A": 10,
+            "M": 5,
+            "PD": 9,
+            "MD": 9,
+            "MP": 3
+        },
+        {
+            "Weapon": "Lunar Rod",
+            "HP": 70,
+            "A": 1,
+            "M": 13,
+            "PD": 6,
+            "MD": 10,
+            "MP": 2
+        },
+        {
+            "Weapon": "Solar Rod",
+            "HP": 60,
+            "A": 2,
+            "M": 14,
+            "PD": 9,
+            "MD": 9,
+            "MP": 1
+        },
+        {
+            "Weapon": "Star Rod",
+            "HP": 65,
+            "A": 0,
+            "M": 11,
+            "PD": 12,
+            "MD": 12,
+            "MP": 2
+        },
+        {
+            "Weapon": "Orb",
+            "HP": 60,
+            "A": 7,
+            "M": 13,
+            "PD": 5,
+            "MD": 16,
+            "MP": 1
+        },
+        {
+            "Weapon": "Tarot Cards",
+            "HP": 65,
+            "A": 5,
+            "M": 11,
+            "PD": 9,
+            "MD": 10,
+            "MP": 2
+        },
+        {
+            "Weapon": "Pendulum",
+            "HP": 65,
+            "A": 5,
+            "M": 9,
+            "PD": 12,
+            "MD": 9,
+            "MP": 1
+        },
+        {
+            "Weapon": "Athame",
+            "HP": 65,
+            "A": 6,
+            "M": 7,
+            "PD": 15,
+            "MD": 10,
+            "MP": 2
+        },
+        {
+            "Weapon": "Chalice",
+            "HP": 65,
+            "A": 0,
+            "M": 13,
+            "PD": 15,
+            "MD": 15,
+            "MP": 1
+        },
+        {
+            "Weapon": "Scythe",
+            "HP": 70,
+            "A": 8,
+            "M": 13,
+            "PD": 9,
+            "MD": 9,
+            "MP": 2
+        },
+        {
+            "Weapon": "Gladius",
+            "HP": 65,
+            "A": 14,
+            "M": 0,
+            "PD": 15,
+            "MD": 10,
+            "MP": 2
+        },
+        {
+            "Weapon": "Katana",
+            "HP": 65,
+            "A": 10,
+            "M": 0,
+            "PD": 12,
+            "MD": 12,
+            "MP": 3
+        },
+        {
+            "Weapon": "Rapier",
+            "HP": 60,
+            "A": 10,
+            "M": 9,
+            "PD": 13,
+            "MD": 11,
+            "MP": 2
+        },
+        {
+            "Weapon": "Bo Staff",
+            "HP": 65,
+            "A": 12,
+            "M": 5,
+            "PD": 14,
+            "MD": 14,
+            "MP": 2
+        },
+        {
+            "Weapon": "Claws",
+            "HP": 65,
+            "A": 11,
+            "M": 4,
+            "PD": 9,
+            "MD": 9,
+            "MP": 3
+        },
+        {
+            "Weapon": "Tonfa",
+            "HP": 70,
+            "A": 12,
+            "M": 9,
+            "PD": 15,
+            "MD": 15,
+            "MP": 2
+        },
+        {
+            "Weapon": "Axe",
+            "HP": 60,
+            "A": 19,
+            "M": 7,
+            "PD": 11,
+            "MD": 11,
+            "MP": 1
+        },
+        {
+            "Weapon": "Hammer",
+            "HP": 70,
+            "A": 15,
+            "M": 7,
+            "PD": 19,
+            "MD": 8,
+            "MP": 1
+        },
+        {
+            "Weapon": "Tomahawk",
+            "HP": 65,
+            "A": 13,
+            "M": 8,
+            "PD": 17,
+            "MD": 10,
+            "MP": 2
+        },
+        {
+            "Weapon": "Crown",
+            "HP": 70,
+            "A": 12,
+            "M": 4,
+            "PD": 14,
+            "MD": 14,
+            "MP": 2
+        },
+        {
+            "Weapon": "Runes",
+            "HP": 70,
+            "A": 0,
+            "M": 5,
+            "PD": 10,
+            "MD": 15,
+            "MP": 2
+        },
+        {
+            "Weapon": "Talisman",
+            "HP": 65,
+            "A": 7,
+            "M": 11,
+            "PD": 15,
+            "MD": 15,
+            "MP": 2
+        },
+        {
+            "Weapon": "Shillelagh",
+            "HP": 65,
+            "A": 13,
+            "M": 13,
+            "PD": 10,
+            "MD": 10,
+            "MP": 1
+        },
+        {
+            "Weapon": "Spellbook",
+            "HP": 60,
+            "A": 4,
+            "M": 12,
+            "PD": 7,
+            "MD": 27,
+            "MP": 1
+        },
+        {
+            "Weapon": "Wand",
+            "HP": 65,
+            "A": 7,
+            "M": 10,
+            "PD": 5,
+            "MD": 5,
+            "MP": 1
+        }
+    ]
+}
