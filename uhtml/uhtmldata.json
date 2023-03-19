@@ -1,8 +1,56 @@
 {
-  "lastWT": "Thu Mar 16 2023 20:16:32 GMT-0400 (Eastern Daylight Time) /uhtml wt3,<div class=\"infobox\" style=\"background-color:rgba(80, 160, 175, 0.2)\"><div style='display:inline-block'><i>I don't know about you but the above user is a bad user</i> (Did you mean <i>sever</i>?)<br><div style=\"width:100%;text-align:right;font-size:11px;color:#666\">Confirm with %yes</div></div></div>",
-  "lastUHTMLmessage": "Fri Mar 17 2023 16:27:57 GMT-0400 (Eastern Daylight Time) /uhtml 1679084878680,<div style=\"overflow-x:auto\"><table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" border=\"1\" bordercolor=\"#888\"><tr style=\"min-height:28px;height:24px\"><td style=\"min-width:22px\"></td><td style=\"min-width:22px\" align=\"center\"><b>1</b></td><td style=\"min-width:22px\" align=\"center\"><b>2</b></td><td style=\"min-width:22px\" align=\"center\"><b>3</b></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>A</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>B</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>C</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr></table></div>",
+  "lastWT": "Sat Mar 18 2023 20:57:03 GMT-0400 (Eastern Daylight Time) /uhtml wt3,<div class=\"infobox\" style=\"background-color:rgba(80, 160, 175, 0.2)\"><b>Gamble</b> - Tarot Cards 5<br><b>Frequency:</b> Twice/EoT<br><b>Miss Rate:</b> 3<br><b>Roll:</b> 3d8+0<br><b>Type:</b> Magical/Standard<br><b>Range:</b> 1/Foe/Range 3<br><details OPEN><summary><b>Effect</b></summary>Roll d7. 1 = Subtract the target's ATK and MAG, 2 = Subtract the higher of the target's offensive stats, 3 = Subtract the user's ATK, 4 = Add the user's ATK, 5 = Add the higher of the target's offensive stats, 6 = Add the user's MAG again, 7 = Add the user's ATK and the target's ATK and MAG. This ability is immune to outside factors to damage. (These effects do not count as negative damage factors. This move still adds the user's MAG.)</details></div>",
+  "lastUHTMLmessage": "Sat Mar 18 2023 21:24:33 GMT-0400 (Eastern Daylight Time) /uhtml 1679189075274,<div class=\"infobox\"><details open><summary>Map</summary><div style=\"overflow-x:auto\"><table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" border=\"1\" bordercolor=\"#888\"><tr style=\"min-height:28px;height:24px\"><td style=\"min-width:22px\"></td><td style=\"min-width:22px\" align=\"center\"><b>1</b></td><td style=\"min-width:22px\" align=\"center\"><b>2</b></td><td style=\"min-width:22px\" align=\"center\"><b>3</b></td><td style=\"min-width:22px\" align=\"center\"><b>4</b></td><td style=\"min-width:22px\" align=\"center\"><b>5</b></td><td style=\"min-width:22px\" align=\"center\"><b>6</b></td><td style=\"min-width:22px\" align=\"center\"><b>7</b></td><td style=\"min-width:22px\" align=\"center\"><b>8</b></td><td style=\"min-width:22px\" align=\"center\"><b>9</b></td><td style=\"min-width:22px\" align=\"center\"><b>10</b></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>A</b></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>B</b></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\" align=\"center\"><b style=\"color:#0000C0\">P2</b></td><td style=\"background:#99E599\" title=\"normal\" align=\"center\"><b style=\"color:#00A000\">P1</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>C</b></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>D</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>E</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>F</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>G</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>H</b></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>I</b></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>J</b></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td></tr></table></div></details><details open><summary>Player Data</summary><div style=\"overflow-x:auto\"><table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" cellpadding=\"3\" border=\"1\" bordercolor=\"#888\"><col width=\"22\"><col><col><col><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><tr style=\"height:22px\"><th>#</th><th>Name</th><th>Class/Weapon</th><th>HP</th><th>A</th><th>M</th><th>PE</th><th>ME</th><th>MP</th></tr><tr style=\"height:22px\"><th><b style=\"color:#00A000\">P1</b></th><th>Ethereal Sword ♪</th><th>Skirmisher(10)/Longbow(10)</th><th>130/130</th><th>20</th><th>10</th><th>2</th><th>2</th><th>5</th></tr><tr style=\"height:22px\"><th><b style=\"color:#0000C0\">P2</b></th><th>4mat</th><th>Rifter(10)/Tarot Cards(10)</th><th>125/125</th><th>14</th><th>20</th><th>2</th><th>2</th><th>5</th></tr><tr style=\"min-height:22px\"><td colspan=\"9\"  style=\"max-width:1px;text-align:center\"><b>Turn Order: Ethereal Sword ♪ (B), 4mat (A)</b></td></tr></table></div></details></div>",
   "lastMap": [
     [
+      "stop",
+      "stop",
+      "stop",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "stop",
+      "stop",
+      "stop"
+    ],
+    [
+      "stop",
+      "stop",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "stop",
+      "stop"
+    ],
+    [
+      "stop",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "stop"
+    ],
+    [
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "normal"
+    ],
+    [
       "normal",
       "normal",
       "normal",
@@ -29,30 +77,6 @@
     [
       "normal",
       "normal",
-      "stop",
-      "stop",
-      "normal",
-      "normal",
-      "stop",
-      "stop",
-      "normal",
-      "normal"
-    ],
-    [
-      "normal",
-      "normal",
-      "stop",
-      "stop",
-      "normal",
-      "normal",
-      "stop",
-      "stop",
-      "normal",
-      "normal"
-    ],
-    [
-      "normal",
-      "normal",
       "normal",
       "normal",
       "normal",
@@ -63,7 +87,6 @@
       "normal"
     ],
     [
-      "normal",
       "stop",
       "normal",
       "normal",
@@ -71,140 +94,73 @@
       "normal",
       "normal",
       "normal",
-      "stop",
-      "normal"
+      "normal",
+      "normal",
+      "stop"
     ],
     [
+      "stop",
+      "stop",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
       "normal",
       "stop",
-      "stop",
-      "stop",
-      "stop",
-      "stop",
-      "stop",
-      "stop",
-      "stop",
-      "normal"
+      "stop"
     ],
     [
-      "normal",
-      "normal",
-      "stop",
-      "stop",
-      "stop",
       "stop",
       "stop",
       "stop",
       "normal",
-      "normal"
-    ],
-    [
       "normal",
       "normal",
       "normal",
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "normal"
-    ],
-    [],
-    [
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "normal"
+      "stop",
+      "stop",
+      "stop"
     ]
   ],
   "lastTurnOrder": [
-    "hphezla(A)",
-    "TheWingedEevee(A)",
-    "zuko743(B)",
-    "AggSandwich(B)"
+    "EtherealSword♪(B)",
+    "4mat(A)"
   ],
   "playerList": [
     [
       {
         "#": "P1",
-        "Name": "hph ezla",
-        "Class/Weapon": "Rifter(10)/Pendulum(10)",
-        "HP": "125/125",
-        "A": "14",
-        "M": "18",
-        "PE": "3",
+        "Name": "Ethereal Sword ♪",
+        "Class/Weapon": "Skirmisher(10)/Longbow(10)",
+        "HP": "130/130",
+        "A": "20",
+        "M": "10",
+        "PE": "2",
         "ME": "2",
         "MP": "5",
-        "Items": [
-          "27",
-          "55",
-          "4",
-          "52"
-        ]
+        "Items": []
       },
       {
         "#": "P2",
-        "Name": "The Winged Eevee",
-        "Class/Weapon": "Skirmisher(1)/Lunar Rod(1)",
-        "HP": "140/140",
-        "A": "10",
-        "M": "22",
+        "Name": "4mat",
+        "Class/Weapon": "Rifter(10)/Tarot Cards(10)",
+        "HP": "125/125",
+        "A": "14",
+        "M": "20",
         "PE": "2",
-        "ME": "3",
-        "MP": "6",
-        "Items": [
-          "3",
-          "7",
-          "6",
-          "1",
-          "5"
-        ]
-      },
-      {
-        "#": "P3",
-        "Name": "zuko743",
-        "Class/Weapon": "Cryokinetic(10)/Star Rod(10)",
-        "HP": "140/140",
-        "A": "7",
-        "M": "18",
-        "PE": "3",
-        "ME": "3",
+        "ME": "2",
         "MP": "5",
-        "Items": [
-          "102",
-          "75",
-          "28"
-        ]
+        "Items": []
       },
       {
-        "#": "P4",
-        "Name": "AggSandwich",
-        "Class/Weapon": "Bard(1)/Hammer(1)",
-        "HP": "150/150",
-        "A": "21",
-        "M": "13",
-        "PE": "4",
-        "ME": "3",
-        "MP": "4",
-        "Items": [
-          "-",
-          "-",
-          "-",
-          "-",
-          "-",
-          "-"
-        ]
+        "#": "Turn Order: Ethereal Sword ♪ (B), 4mat (A)",
+        "Items": []
       }
     ]
   ],
-  "plHTML": "<table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" cellpadding=\"3\" border=\"1\" bordercolor=\"#888\"><col width=\"22\"><col><col><col><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"25\"><col width=\"25\"><col width=\"25\"><col width=\"25\"><col width=\"25\"><col width=\"25\"><tr style=\"height:22px\"><th>#</th><th>Name</th><th>Class/Weapon</th><th>HP</th><th>A</th><th>M</th><th>PE</th><th>ME</th><th>MP</th><th colspan=\"6\"  style=\"min-width:158px\">Items</th></tr><tr style=\"height:22px\"><td><b style=\"color:#0000C0\">P1</b></td><td>hph ezla</td><td>Rifter(10)/Pendulum(10)</td><td>125/125</td><td>14</td><td>18</td><td>3</td><td>2</td><td>5</td><td><span title=\"Focus Lens\">27</span></td><td colspan=\"2\"><span title=\"First Impression\">55</span></td><td><span title=\"Soul Orb\">4</span></td><td colspan=\"2\"><span title=\"Air Balloon\">52</span></td></tr><tr style=\"height:22px\"><td><b style=\"color:#0000C0\">P2</b></td><td>The Winged Eevee</td><td>Skirmisher(1)/Lunar Rod(1)</td><td>140/140</td><td>10</td><td>22</td><td>2</td><td>3</td><td>6</td><td><span title=\"Quartz Bangle\">3</span></td><td><span title=\"Whipped Dream\">7</span></td><td><span title=\"Reaper Cloth\">6</span></td><td><span title=\"Amber Amulet\">1</span></td><td colspan=\"2\"><span title=\"Illusion Mask\">5</span></td></tr><tr style=\"height:22px\"><td><b style=\"color:#00A000\">P3</b></td><td>zuko743</td><td>Cryokinetic(10)/Star Rod(10)</td><td>140/140</td><td>7</td><td>18</td><td>3</td><td>3</td><td>5</td><td colspan=\"4\"><span title=\"Chains and Whips\">102</span></td><td><span title=\"Adjustable Lens\">75</span></td><td><span title=\"Lance\">28</span></td></tr><tr style=\"height:22px\"><td><b style=\"color:#00A000\">P4</b></td><td>AggSandwich</td><td>Bard(1)/Hammer(1)</td><td>150/150</td><td>21</td><td>13</td><td>4</td><td>3</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></table>",
-  "lastINFO": "Thu Mar 16 2023 20:21:05 GMT-0400 (Eastern Daylight Time) /uhtml 1679012467090,<div class=\"infobox\"><details open><summary>Map</summary><div style=\"overflow-x:auto\"><table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" border=\"1\" bordercolor=\"#888\"><tr style=\"min-height:28px;height:24px\"><td style=\"min-width:22px\"></td><td style=\"min-width:22px\" align=\"center\"><b>1</b></td><td style=\"min-width:22px\" align=\"center\"><b>2</b></td><td style=\"min-width:22px\" align=\"center\"><b>3</b></td><td style=\"min-width:22px\" align=\"center\"><b>4</b></td><td style=\"min-width:22px\" align=\"center\"><b>5</b></td><td style=\"min-width:22px\" align=\"center\"><b>6</b></td><td style=\"min-width:22px\" align=\"center\"><b>7</b></td><td style=\"min-width:22px\" align=\"center\"><b>8</b></td><td style=\"min-width:22px\" align=\"center\"><b>9</b></td><td style=\"min-width:22px\" align=\"center\"><b>10</b></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>A</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\" align=\"center\"><b style=\"color:#0000C0\">P2</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>B</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\" align=\"center\"><b style=\"color:#0000C0\">P1</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>C</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>D</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>E</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>F</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>G</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>H</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>I</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\" align=\"center\"><b style=\"color:#00A000\">P4</b></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>J</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\" align=\"center\"><b style=\"color:#00A000\">P3</b></td><td style=\"background:#99E599\" title=\"normal\"></td></tr></table></div></details><details open><summary>Player Data</summary><div style=\"overflow-x:auto\"><table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" cellpadding=\"3\" border=\"1\" bordercolor=\"#888\"><col width=\"22\"><col><col><col><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"25\"><col width=\"25\"><col width=\"25\"><col width=\"25\"><col width=\"25\"><col width=\"25\"><tr style=\"height:22px\"><th>#</th><th>Name</th><th>Class/Weapon</th><th>HP</th><th>A</th><th>M</th><th>PE</th><th>ME</th><th>MP</th><th colspan=\"6\"  style=\"min-width:158px\">Items</th></tr><tr style=\"height:22px\"><th><b style=\"color:#0000C0\">P1</b></th><th>hph ezla</th><th>Rifter(10)/Pendulum(10)</th><th>125/125</th><th>14</th><th>18</th><th>3</th><th>2</th><th>5</th><th><span title=\"Focus Lens\">27</span></th><th colspan=\"2\"><span title=\"First Impression\">55</span></th><th><span title=\"Soul Orb\">4</span></th><th colspan=\"2\"><span title=\"Air Balloon\">52</span></th></tr><tr style=\"height:22px\"><th><b style=\"color:#0000C0\">P2</b></th><th>The Winged Eevee</th><th>Skirmisher(1)/Lunar Rod(1)</th><th>140/140</th><th>10</th><th>22</th><th>2</th><th>3</th><th>6</th><th><span title=\"Quartz Bangle\">3</span></th><th><span title=\"Whipped Dream\">7</span></th><th><span title=\"Reaper Cloth\">6</span></th><th><span title=\"Amber Amulet\">1</span></th><th colspan=\"2\"><span title=\"Illusion Mask\">5</span></th></tr><tr style=\"height:22px\"><th><b style=\"color:#00A000\">P3</b></th><th>zuko743</th><th>Cryokinetic(10)/Star Rod(10)</th><th>140/140</th><th>7</th><th>18</th><th>3</th><th>3</th><th>5</th><th colspan=\"4\"><span title=\"Chains and Whips\">102</span></th><th><span title=\"Adjustable Lens\">75</span></th><th><span title=\"Lance\">28</span></th></tr><tr style=\"height:22px\"><th><b style=\"color:#00A000\">P4</b></th><th>AggSandwich</th><th>Bard(1)/Hammer(1)</th><th>150/150</th><th>21</th><th>13</th><th>4</th><th>3</th><th>4</th><th>-</th><th>-</th><th>-</th><th>-</th><th>-</th><th>-</th></tr><tr style=\"min-height:22px\"><td colspan=\"15\"  style=\"max-width:1px;text-align:center\"><b>Turn Order: hph ezla (A), The Winged Eevee (A), zuko743 (B), AggSandwich (B)</b></td></tr></table></div></details></div>",
-  "playerPosition": ""
+  "plHTML": "<table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" cellpadding=\"3\" border=\"1\" bordercolor=\"#888\"><col width=\"22\"><col><col><col><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><tr style=\"height:22px\"><th>#</th><th>Name</th><th>Class/Weapon</th><th>HP</th><th>A</th><th>M</th><th>PE</th><th>ME</th><th>MP</th></tr><tr style=\"height:22px\"><td><b style=\"color:#00A000\">P1</b></td><td>Ethereal Sword ♪</td><td>Skirmisher(10)/Longbow(10)</td><td>130/130</td><td>20</td><td>10</td><td>2</td><td>2</td><td>5</td></tr><tr style=\"height:22px\"><td><b style=\"color:#0000C0\">P2</b></td><td>4mat</td><td>Rifter(10)/Tarot Cards(10)</td><td>125/125</td><td>14</td><td>20</td><td>2</td><td>2</td><td>5</td></tr><tr style=\"min-height:22px\"><td colspan=\"9\"  style=\"max-width:1px;text-align:center\"><b>Turn Order: Ethereal Sword ♪ (B), 4mat (A)</b></td></tr></table></table>",
+  "lastINFO": "Sat Mar 18 2023 21:24:33 GMT-0400 (Eastern Daylight Time) /uhtml 1679189075274,<div class=\"infobox\"><details open><summary>Map</summary><div style=\"overflow-x:auto\"><table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" border=\"1\" bordercolor=\"#888\"><tr style=\"min-height:28px;height:24px\"><td style=\"min-width:22px\"></td><td style=\"min-width:22px\" align=\"center\"><b>1</b></td><td style=\"min-width:22px\" align=\"center\"><b>2</b></td><td style=\"min-width:22px\" align=\"center\"><b>3</b></td><td style=\"min-width:22px\" align=\"center\"><b>4</b></td><td style=\"min-width:22px\" align=\"center\"><b>5</b></td><td style=\"min-width:22px\" align=\"center\"><b>6</b></td><td style=\"min-width:22px\" align=\"center\"><b>7</b></td><td style=\"min-width:22px\" align=\"center\"><b>8</b></td><td style=\"min-width:22px\" align=\"center\"><b>9</b></td><td style=\"min-width:22px\" align=\"center\"><b>10</b></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>A</b></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>B</b></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\" align=\"center\"><b style=\"color:#0000C0\">P2</b></td><td style=\"background:#99E599\" title=\"normal\" align=\"center\"><b style=\"color:#00A000\">P1</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>C</b></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>D</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>E</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>F</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>G</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>H</b></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>I</b></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>J</b></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td><td style=\"background:#919191\" title=\"stop\"></td></tr></table></div></details><details open><summary>Player Data</summary><div style=\"overflow-x:auto\"><table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" cellpadding=\"3\" border=\"1\" bordercolor=\"#888\"><col width=\"22\"><col><col><col><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><tr style=\"height:22px\"><th>#</th><th>Name</th><th>Class/Weapon</th><th>HP</th><th>A</th><th>M</th><th>PE</th><th>ME</th><th>MP</th></tr><tr style=\"height:22px\"><th><b style=\"color:#00A000\">P1</b></th><th>Ethereal Sword ♪</th><th>Skirmisher(10)/Longbow(10)</th><th>130/130</th><th>20</th><th>10</th><th>2</th><th>2</th><th>5</th></tr><tr style=\"height:22px\"><th><b style=\"color:#0000C0\">P2</b></th><th>4mat</th><th>Rifter(10)/Tarot Cards(10)</th><th>125/125</th><th>14</th><th>20</th><th>2</th><th>2</th><th>5</th></tr><tr style=\"min-height:22px\"><td colspan=\"9\"  style=\"max-width:1px;text-align:center\"><b>Turn Order: Ethereal Sword ♪ (B), 4mat (A)</b></td></tr></table></div></details></div>",
+  "playerPosition": " P2 Position: B, 3 ||  P1 Position: B, 4 || ",
+  "room": "battledome-groupchat-one"
 }

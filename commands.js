@@ -5,10 +5,6 @@
  */
 var fs = require('fs').promises;
 var path = require('path');
-var db = require('origindb')('db');
-db('money').set('phil', 10);
-db('money').set('some_user', db('money').get('phil') + 10);
-
 var test = "abort";
 var group = require('origindb')('group');
 let uhtml = require('origindb')('uhtml');
@@ -133,7 +129,7 @@ exports.commands = {
 		this.say(tarRoom, arg);
 	},
 	reload: function (arg, user, room) {
-		if (!user.isExcepted() && clearance.indexOf(user.id) == -1) return false;
+		if (!user.isExcepted() /*&& clearance.indexOf(user.id) == -1*/) return false;
 		try {
 			this.uncacheTree('./commands.js');
 			Commands = require('./commands.js').commands;
@@ -156,6 +152,10 @@ exports.commands = {
 	},
 	startthis: function(arg, user, room){
 		stop = false;
+	},
+	locksquad: function(arg, user, room){
+		format.lockSquad(arg);
+		return this.say(room, "Locked squad to " + arg + ".");
 	},
 	/*grt: function(arg, user, room){
 		if(stop) return false;
@@ -200,7 +200,7 @@ exports.commands = {
 		playerClass = playerClass.replace(')','').split('(');
 		playerWeapon = playerWeapon.replace(')','').split('(');
 
-		let weaponMoves = format.makeButtonsForWeapon(toID(playerWeapon[0]), playerWeapon[1]);
+		let weaponMoves = format.makeButtonsForWeapon(playerWeapon[0], Number(playerWeapon[1]));
 
 		let htmlpageIntro = `/sendhtmlpage ${userName}, ${title}`;
 		
