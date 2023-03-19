@@ -200,7 +200,7 @@ exports.commands = {
 		playerClass = playerClass.replace(')','').split('(');
 		playerWeapon = playerWeapon.replace(')','').split('(');
 
-		let weaponMoves = format.makeButtonsForWeapon(playerWeapon[0], Number(playerWeapon[1]));
+		let weaponMoves = format.makeButtonsForWeapon(playerWeapon[0], Number(playerWeapon[1]), format.getRoom());
 
 		let htmlpageIntro = `/sendhtmlpage ${userName}, ${title}`;
 		
