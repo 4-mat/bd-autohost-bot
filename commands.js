@@ -173,7 +173,35 @@ exports.commands = {
 		let turnorder;
 		if(UHTMLcontents.includes('Player Data')){
 
-		turnorder = UHTMLcontents.split('Turn Order: ')[1].split('</b>')[0].split(',');
+		// below code is going to be deprecated lol
+
+		/*turnorder = UHTMLcontents.split('Turn Order: ')[1].split('</b>')[0].split(',');
+		for (let i = 0; i < turnorder.length; i++) {
+			const element = turnorder[i];
+			if (element.includes("(RIP)")) {
+				turnorder.splice(i, 1);
+				continue;
+			}
+			if (element.includes(" (")) turnorder[i] = turnorder[i].split(" (")[0];
+		}*/
+
+		}
+		//userName = turnorder[arg-1];
+
+		// actual code time
+
+		let PLofSquad = format.getStats();
+		
+		try {
+			userName = PLofSquad[arg-1].Name 
+		} catch (error) {
+			return this.say(room, "No such player.");
+		}
+
+		
+		let playerPosition = format.getPlayerPosition();
+
+		turnorder = format.getTOcontents();
 		for (let i = 0; i < turnorder.length; i++) {
 			const element = turnorder[i];
 			if (element.includes("(RIP)")) {
@@ -182,11 +210,6 @@ exports.commands = {
 			}
 			if (element.includes(" (")) turnorder[i] = turnorder[i].split(" (")[0];
 		}
-
-		}
-		userName = turnorder[arg-1];
-		
-		let playerPosition = format.getPlayerPosition();
 
 		for (let i = 0; i < turnorder.length; i++) {
 			let htmlpageIntro = `/sendhtmlpage ${turnorder[i]}, ${title}`;
@@ -204,7 +227,7 @@ exports.commands = {
 
 		let htmlpageIntro = `/sendhtmlpage ${userName}, ${title}`;
 		
-		let returnStatement = `${htmlpageIntro}, ${UHTMLcontents} GO ${turnorder[arg-1]} <br> ${weaponMoves} <br> ${playerPosition}`;
+		let returnStatement = `${htmlpageIntro}, ${UHTMLcontents} GO ${userName} <br> ${weaponMoves} <br> ${playerPosition}`;
 		this.say(room, `/msgroom botdev, ${returnStatement}`);
 	}
 }
