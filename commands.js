@@ -192,13 +192,9 @@ exports.commands = {
 
 		let PLofSquad = format.getStats();
 		
-		try {
-			userName = PLofSquad[arg-1].Name 
-		} catch (error) {
-			return this.say(room, "No such player.");
-		}
+		try {userName = PLofSquad[arg-1].Name}
+		catch (error) {return this.say(room, "No such player.");}
 
-		
 		let playerPosition = format.getPlayerPosition();
 
 		turnorder = format.getTOcontents();
@@ -208,7 +204,7 @@ exports.commands = {
 				turnorder.splice(i, 1);
 				continue;
 			}
-			if (element.includes(" (")) turnorder[i] = turnorder[i].split(" (")[0];
+			if (element.includes("(")) turnorder[i] = turnorder[i].split("(")[0];
 		}
 
 		for (let i = 0; i < turnorder.length; i++) {
@@ -223,11 +219,14 @@ exports.commands = {
 		playerClass = playerClass.replace(')','').split('(');
 		playerWeapon = playerWeapon.replace(')','').split('(');
 
-		let weaponMoves = format.makeButtonsForWeapon(playerWeapon[0], Number(playerWeapon[1]), format.getRoom());
+		let weaponMoves = format.makeButtonsForWeapon(playerWeapon[0], Number(playerWeapon[1]), format.getRoom(), format.getStats(userName));
 
 		let htmlpageIntro = `/sendhtmlpage ${userName}, ${title}`;
 		
 		let returnStatement = `${htmlpageIntro}, ${UHTMLcontents} GO ${userName} <br> ${weaponMoves} <br> ${playerPosition}`;
 		this.say(room, `/msgroom botdev, ${returnStatement}`);
-	}
+	},
+	use: function(arg, user, room){
+		
+    },
 }
