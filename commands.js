@@ -195,7 +195,7 @@ exports.commands = {
 		try {userName = PLofSquad[arg-1].Name}
 		catch (error) {return this.say(room, "No such player.");}
 
-		let playerPosition = format.getPlayerPosition();
+		let playerPosition = format.getPlayerPosition().slice(0, -3);
 
 		turnorder = format.getTOcontents();
 		for (let i = 0; i < turnorder.length; i++) {
@@ -228,6 +228,8 @@ exports.commands = {
 	},
 	use: function(arg, user, room){
 		var userName = ""; let title = 'BDgame';
+
+		var userName = user.id;
 		
 		var UHTMLcontents = format.getUHTMLcontents();
 		timeStampOfContents = UHTMLcontents.split(" /")[0];
@@ -240,6 +242,7 @@ exports.commands = {
 		let htmlpageIntro = `/sendhtmlpage ${userName}, ${title}`;
 
 		let weaponMoves2 = format.getWeaponMoves();
+		console.log(weaponMoves2);
 		let weaponMove = weaponMoves2[arg];
 
 		turnorder = format.getTOcontents();
@@ -253,10 +256,10 @@ exports.commands = {
 		}
 		// `<button class='button' name='send' value='/msgroom ${room}, ${ability.Name} @ target ${roll} MR ${ability.MR} | secondary effect goes here'>${ability.Name}</button>`;
 		
-		let weaponMoves = "";
+		let weaponMoves = ""; let weaponMoveSubstitute = "";
 		for (let i = 0; i < turnorder.length; i++) {
-            weaponMove = weaponMove.replace(target, turnorder[i]);
-            weaponMoves = weaponMoves + weaponMove;
+            weaponMoveSubstitute = weaponMove.replaceAll('target', turnorder[i]);
+            weaponMoves = weaponMoves + weaponMoveSubstitute;
         };
 
 		let returnStatement = `${htmlpageIntro}, ${UHTMLcontents} GO ${userName} <br> ${weaponMoves}`;
