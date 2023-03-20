@@ -227,6 +227,39 @@ exports.commands = {
 		this.say(room, `/msgroom botdev, ${returnStatement}`);
 	},
 	use: function(arg, user, room){
+		var userName = ""; let title = 'BDgame';
 		
+		var UHTMLcontents = format.getUHTMLcontents();
+		timeStampOfContents = UHTMLcontents.split(" /")[0];
+		UHTMLcontents = UHTMLcontents.split(",");
+		UHTMLcontents.shift();
+		UHTMLcontents = UHTMLcontents.join(",");
+		UHTMLcontents = timeStampOfContents + UHTMLcontents;
+		let turnorder;
+
+		let htmlpageIntro = `/sendhtmlpage ${userName}, ${title}`;
+
+		let weaponMoves2 = format.getWeaponMoves();
+		let weaponMove = weaponMoves2[arg];
+
+		turnorder = format.getTOcontents();
+		for (let i = 0; i < turnorder.length; i++) {
+			const element = turnorder[i];
+			if (element.includes("(RIP)")) {
+				turnorder.splice(i, 1);
+				continue;
+			}
+			if (element.includes("(")) turnorder[i] = turnorder[i].split("(")[0];
+		}
+		// `<button class='button' name='send' value='/msgroom ${room}, ${ability.Name} @ target ${roll} MR ${ability.MR} | secondary effect goes here'>${ability.Name}</button>`;
+		
+		let weaponMoves = "";
+		for (let i = 0; i < turnorder.length; i++) {
+            weaponMove = weaponMove.replace(target, turnorder[i]);
+            weaponMoves = weaponMoves + weaponMove;
+        };
+
+		let returnStatement = `${htmlpageIntro}, ${UHTMLcontents} GO ${userName} <br> ${weaponMoves}`;
+		this.say(room, `/msgroom botdev, ${returnStatement}`);
     },
 }
