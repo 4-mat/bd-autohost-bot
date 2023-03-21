@@ -186,14 +186,14 @@ exports.commands = {
 		}*/
 
 		}
-		//userName = turnorder[arg-1];
+		//userName = turnorder[arg-1];`
 
 		// actual code time
 
 		let PLofSquad = format.getStats();
 		
 		try {userName = PLofSquad[arg-1].Name}
-		catch (error) {return this.say(room, "No such player.");}
+		catch (error) {userName = "Not Found"; return this.say(room, "No such player.");}
 
 		let playerPosition = format.getPlayerPosition().slice(0, -3);
 
@@ -204,7 +204,7 @@ exports.commands = {
 				turnorder.splice(i, 1);
 				continue;
 			}
-			if (element.includes("(")) turnorder[i] = turnorder[i].split("(")[0];
+			if (element.includes(" (")) turnorder[i] = turnorder[i].split(" (")[0];
 		}
 
 		for (let i = 0; i < turnorder.length; i++) {
@@ -220,10 +220,11 @@ exports.commands = {
 		playerWeapon = playerWeapon.replace(')','').split('(');
 
 		let weaponMoves = format.makeButtonsForWeapon(playerWeapon[0], Number(playerWeapon[1]), format.getRoom(), format.getStats(userName));
-
+		let classMoves = format.makeButtonsForClass(playerClass[0], Number(playerClass[1]), format.getRoom());
+		
 		let htmlpageIntro = `/sendhtmlpage ${userName}, ${title}`;
 		
-		let returnStatement = `${htmlpageIntro}, ${UHTMLcontents} GO ${userName} <br> ${weaponMoves} <br> ${playerPosition}`;
+		let returnStatement = `${htmlpageIntro}, ${UHTMLcontents} GO ${userName} <br> ${classMoves} <br> ${weaponMoves} <br> ${playerPosition}`;
 		this.say(room, `/msgroom botdev, ${returnStatement}`);
 	},
 	use: function(arg, user, room){
@@ -242,8 +243,17 @@ exports.commands = {
 		let htmlpageIntro = `/sendhtmlpage ${userName}, ${title}`;
 
 		let weaponMoves2 = format.getWeaponMoves();
+		let classMoves = format.getClassMoves();
 		console.log(weaponMoves2);
 		let weaponMove = weaponMoves2[arg];
+
+		let classMove = classMoves[arg];
+		let Move = "";
+		if (weaponMove === undefined) {
+			Move = classMove;
+		} else {
+			Move = weaponMove;
+		}
 
 		turnorder = format.getTOcontents();
 		for (let i = 0; i < turnorder.length; i++) {
@@ -255,10 +265,10 @@ exports.commands = {
 			if (element.includes("(")) turnorder[i] = turnorder[i].split("(")[0];
 		}
 		// `<button class='button' name='send' value='/msgroom ${room}, ${ability.Name} @ target ${roll} MR ${ability.MR} | secondary effect goes here'>${ability.Name}</button>`;
-		
+
 		let weaponMoves = ""; let weaponMoveSubstitute = "";
 		for (let i = 0; i < turnorder.length; i++) {
-            weaponMoveSubstitute = weaponMove.replaceAll('target', turnorder[i]);
+            weaponMoveSubstitute = Move.replaceAll('target', turnorder[i]);
             weaponMoves = weaponMoves + weaponMoveSubstitute;
         };
 
