@@ -6,8 +6,8 @@
 var fs = require('fs').promises;
 var path = require('path');
 var test = "abort";
-var group = require('origindb')('group');
-let uhtml = require('origindb')('uhtml');
+//var group = require('origindb')('group');
+//let uhtml = require('origindb')('uhtml');
 var http = require('http');
 var format = require('$format/misc');
 
@@ -163,6 +163,11 @@ exports.commands = {
 	},*/
 	cut: function(arg, user, room){
 		var userName = ""; let title = 'BDgame';
+
+		if(arg.includes('recent')) {
+			arg = format.getCutNumber();
+		};
+		format.saveCutNumber(arg);
 		
 		var UHTMLcontents = format.getUHTMLcontents();
 		timeStampOfContents = UHTMLcontents.split(" /")[0];
@@ -204,12 +209,16 @@ exports.commands = {
 				turnorder.splice(i, 1);
 				continue;
 			}
+			if (element.includes("(MKed)")){
+				turnorder.splice(i, 1);
+				continue;
+			}
 			if (element.includes(" (")) turnorder[i] = turnorder[i].split(" (")[0];
 		}
 
 		for (let i = 0; i < turnorder.length; i++) {
 			let htmlpageIntro = `/sendhtmlpage ${turnorder[i]}, ${title}`;
-			let returnStatement = `${htmlpageIntro}, ${UHTMLcontents} It's ${turnorder[arg-1]}'s turn`;
+			let returnStatement = `${htmlpageIntro}, ${UHTMLcontents} It's ${userName}'s turn`;
 			this.say(room, `/msgroom botdev, ${returnStatement} <br> ${playerPosition}`);
 		};
 		let gaming = format.getClassAndWeap(userName);
