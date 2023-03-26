@@ -91,10 +91,10 @@ exports.parse = {
 				var data;
 				if (!config.pass) {
 					requestOptions.method = 'GET';
-					requestOptions.path += '?act=getassertion&userid=' + toID(config.nick) + '&challengekeyid=' + id + '&challenge=' + str;
+					requestOptions.path += '?act=getassertion&userid=' + toID(config.nick) + '&challengekeyid=' + id + '&challstr=' + str;
 				} else {
 					requestOptions.method = 'POST';
-					data = 'act=login&name=' + config.nick + '&pass=' + config.pass + '&challengekeyid=' + id + '&challenge=' + str;
+					data = 'act=login&name=' + config.nick + '&pass=' + config.pass + '&challengekeyid=' + id + '&challstr=' + str;
 					requestOptions.headers = {
 						'Content-Type': 'application/x-www-form-urlencoded',
 						'Content-Length': data.length
