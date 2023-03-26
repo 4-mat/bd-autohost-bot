@@ -1,6 +1,6 @@
 {
-  "lastWT": "Sat Mar 25 2023 21:21:10 GMT-0400 (Eastern Daylight Time) /uhtml wt0,<div class=\"infobox\" style=\"background-color:rgba(80, 160, 175, 0.2)\"><b>Nihil</b> - Pendulum 9<br><b>Frequency:</b> Once<br><b>Miss Rate:</b> 4<br><b>Roll:</b> 3d10+5<br><b>Type:</b> Magical/Standard<br><b>Range:</b> 1/Foe/Homing 3<br><details OPEN><summary><b>Effect</b></summary>For one round, if the target fails to buff the user on their turn, they take 7d4+4 damage. While under this effect, the target may target foes in their Range 3 with moves that can normally buff Self and/or Allies.</details></div>",
-  "lastUHTMLmessage": "Sat Mar 25 2023 21:20:39 GMT-0400 (Eastern Daylight Time) /uhtml 1679793639963,<div class=\"infobox\"><details open><summary>Map</summary><div style=\"overflow-x:auto\"><table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" border=\"1\" bordercolor=\"#888\"><tr style=\"min-height:28px;height:24px\"><td style=\"min-width:22px\"></td><td style=\"min-width:22px\" align=\"center\"><b>1</b></td><td style=\"min-width:22px\" align=\"center\"><b>2</b></td><td style=\"min-width:22px\" align=\"center\"><b>3</b></td><td style=\"min-width:22px\" align=\"center\"><b>4</b></td><td style=\"min-width:22px\" align=\"center\"><b>5</b></td><td style=\"min-width:22px\" align=\"center\"><b>6</b></td><td style=\"min-width:22px\" align=\"center\"><b>7</b></td><td style=\"min-width:22px\" align=\"center\"><b>8</b></td><td style=\"min-width:22px\" align=\"center\"><b>9</b></td><td style=\"min-width:22px\" align=\"center\"><b>10</b></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>A</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>B</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>C</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>D</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>E</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\" align=\"center\"><b style=\"color:#0000C0\">P1</b></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>F</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\" align=\"center\"><b style=\"color:#00A000\">P2</b></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>G</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>H</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>I</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>J</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr></table></div></details><details open><summary>Player Data</summary><div style=\"overflow-x:auto\"><table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" cellpadding=\"3\" border=\"1\" bordercolor=\"#888\"><col width=\"22\"><col><col><col><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><tr style=\"height:22px\"><th>#</th><th>Name</th><th>Class/Weapon</th><th>HP</th><th>A</th><th>M</th><th>PE</th><th>ME</th><th>MP</th></tr><tr style=\"height:22px\"><th><b style=\"color:#0000C0\">P1</b></th><th>4mat</th><th>Rifter(10)/Tarot Cards(10)</th><th>18/125</th><th>14</th><th>20</th><th>2</th><th>2</th><th>5</th></tr><tr style=\"height:22px\"><th><b style=\"color:#00A000\">P2</b></th><th>hph ezla</th><th>Rifter(10)/Pendulum(10)</th><th>13/125</th><th>14</th><th>18</th><th>3</th><th>2</th><th>4</th></tr><tr style=\"min-height:22px\"><td colspan=\"9\"  style=\"max-width:1px;text-align:center\"><b>Turn Order: 4mat (A), hph ezla (B)</b></td></tr></table></div></details></div>",
+  "lastWT": "Sun Mar 26 2023 00:32:11 GMT-0400 (Eastern Daylight Time) /uhtml wt3,<div class=\"infobox\" style=\"background-color:rgba(80, 160, 175, 0.2)\"><b>Magic Circle</b> - Runes 9<br><b>Frequency:</b> Once<br><b>Miss Rate:</b> -<br><b>Roll:</b> -<br><b>Type:</b> -/Standard<br><b>Range:</b> Aoe/Self and Allies/Burst 2<br><details OPEN><summary><b>Effect</b></summary>For one round, the user and allies in range have <u>+2 MP</u>, deal an additional 20% attack damage to targets affected by the user's Oath of Discord, and heal an additional 30% of damage dealt with attacks while affected by the user's Oath of Harmony.</details></div>",
+  "lastUHTMLmessage": "Sun Mar 26 2023 06:05:03 GMT-0400 (Eastern Daylight Time) /uhtml 1679825103154,<div class=\"infobox\"><details open><summary>Map</summary><div style=\"overflow-x:auto\"><table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" border=\"1\" bordercolor=\"#888\"><tr style=\"min-height:28px;height:24px\"><td style=\"min-width:22px\"></td><td style=\"min-width:22px\" align=\"center\"><b>1</b></td><td style=\"min-width:22px\" align=\"center\"><b>2</b></td><td style=\"min-width:22px\" align=\"center\"><b>3</b></td><td style=\"min-width:22px\" align=\"center\"><b>4</b></td><td style=\"min-width:22px\" align=\"center\"><b>5</b></td><td style=\"min-width:22px\" align=\"center\"><b>6</b></td><td style=\"min-width:22px\" align=\"center\"><b>7</b></td><td style=\"min-width:22px\" align=\"center\"><b>8</b></td><td style=\"min-width:22px\" align=\"center\"><b>9</b></td><td style=\"min-width:22px\" align=\"center\"><b>10</b></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>A</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\" align=\"center\"><b style=\"color:#0000C0\">P2</b></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>B</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\" align=\"center\"><b style=\"color:#00A000\">P1</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>C</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>D</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>E</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#454FDF\" title=\"water\"></td><td style=\"background:#454FDF\" title=\"water\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>F</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#454FDF\" title=\"water\"></td><td style=\"background:#454FDF\" title=\"water\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>G</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>H</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>I</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>J</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr></table></div></details><details open><summary>Player Data</summary><div style=\"overflow-x:auto\"><table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" cellpadding=\"3\" border=\"1\" bordercolor=\"#888\"><col width=\"22\"><col><col><col><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><tr style=\"height:22px\"><th>#</th><th>Name</th><th>Class/Weapon</th><th>HP</th><th>A</th><th>M</th><th>PE</th><th>ME</th><th>MP</th></tr><tr style=\"height:22px\"><th><b style=\"color:#00A000\">P1</b></th><th>4mat</th><th>Rifter(10)/Tarot Cards(10)</th><th>125/125</th><th>14</th><th>20</th><th>2</th><th>2</th><th>5</th></tr><tr style=\"height:22px\"><th><b style=\"color:#0000C0\">P2</b></th><th>Vrji</th><th>CryoKinetic(10)/Longbow(10)</th><th>87/140</th><th>19</th><th>9</th><th>2</th><th>2</th><th>4</th></tr><tr style=\"min-height:22px\"><td colspan=\"9\"  style=\"max-width:1px;text-align:center\"><b>Turn Order: 4mat (B), Vrji (A)</b></td></tr></table></div></details></div>",
   "lastMap": [
     [
       "normal",
@@ -16,48 +16,12 @@
     ],
     [
       "normal",
+      "normal",
+      "normal",
       "forest",
       "forest",
-      "ice",
-      "normal",
-      "normal",
-      "ice",
       "forest",
       "forest",
-      "normal"
-    ],
-    [
-      "normal",
-      "forest",
-      "ice",
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "ice",
-      "forest",
-      "normal"
-    ],
-    [
-      "normal",
-      "ice",
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "ice",
-      "normal"
-    ],
-    [
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "normal",
       "normal",
       "normal",
       "normal"
@@ -65,49 +29,85 @@
     [
       "normal",
       "normal",
+      "forest",
       "normal",
       "normal",
       "normal",
       "normal",
+      "forest",
       "normal",
-      "normal",
-      "normal",
-      "normal"
-    ],
-    [
-      "normal",
-      "ice",
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "normal",
-      "ice",
       "normal"
     ],
     [
       "normal",
       "forest",
-      "ice",
       "normal",
       "normal",
       "normal",
       "normal",
-      "ice",
+      "normal",
+      "normal",
       "forest",
       "normal"
     ],
     [
       "normal",
       "forest",
-      "forest",
-      "ice",
       "normal",
       "normal",
-      "ice",
+      "water",
+      "water",
+      "normal",
+      "normal",
+      "forest",
+      "normal"
+    ],
+    [
+      "normal",
+      "forest",
+      "normal",
+      "normal",
+      "water",
+      "water",
+      "normal",
+      "normal",
+      "forest",
+      "normal"
+    ],
+    [
+      "normal",
+      "forest",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "forest",
+      "normal"
+    ],
+    [
+      "normal",
+      "normal",
+      "forest",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "forest",
+      "normal",
+      "normal"
+    ],
+    [
+      "normal",
+      "normal",
+      "normal",
       "forest",
       "forest",
+      "forest",
+      "forest",
+      "normal",
+      "normal",
       "normal"
     ],
     [
@@ -124,8 +124,8 @@
     ]
   ],
   "lastTurnOrder": [
-    "4mat (A)",
-    " hph ezla (B)"
+    "4mat (B)",
+    " Vrji (A)"
   ],
   "playerList": [
     [
@@ -133,7 +133,7 @@
         "#": "P1",
         "Name": "4mat",
         "Class/Weapon": "Rifter(10)/Tarot Cards(10)",
-        "HP": "18/125",
+        "HP": "125/125",
         "A": "14",
         "M": "20",
         "PE": "2",
@@ -143,46 +143,44 @@
       },
       {
         "#": "P2",
-        "Name": "hph ezla",
-        "Class/Weapon": "Rifter(10)/Pendulum(10)",
-        "HP": "13/125",
-        "A": "14",
-        "M": "18",
-        "PE": "3",
+        "Name": "Vrji",
+        "Class/Weapon": "CryoKinetic(10)/Longbow(10)",
+        "HP": "87/140",
+        "A": "19",
+        "M": "9",
+        "PE": "2",
         "ME": "2",
         "MP": "4",
         "Items": []
       },
       {
-        "#": "Turn Order: 4mat (A), hph ezla (B)",
+        "#": "Turn Order: 4mat (B), Vrji (A)",
         "Items": []
       }
     ]
   ],
-  "plHTML": "<table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" cellpadding=\"3\" border=\"1\" bordercolor=\"#888\"><col width=\"22\"><col><col><col><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><tr style=\"height:22px\"><th>#</th><th>Name</th><th>Class/Weapon</th><th>HP</th><th>A</th><th>M</th><th>PE</th><th>ME</th><th>MP</th></tr><tr style=\"height:22px\"><td><b style=\"color:#0000C0\">P1</b></td><td>4mat</td><td>Rifter(10)/Tarot Cards(10)</td><td>18/125</td><td>14</td><td>20</td><td>2</td><td>2</td><td>5</td></tr><tr style=\"height:22px\"><td><b style=\"color:#00A000\">P2</b></td><td>hph ezla</td><td>Rifter(10)/Pendulum(10)</td><td>13/125</td><td>14</td><td>18</td><td>3</td><td>2</td><td>4</td></tr><tr style=\"min-height:22px\"><td colspan=\"9\"  style=\"max-width:1px;text-align:center\"><b>Turn Order: 4mat (A), hph ezla (B)</b></td></tr></table></table>",
-  "lastINFO": "Sat Mar 25 2023 21:20:39 GMT-0400 (Eastern Daylight Time) /uhtml 1679793639963,<div class=\"infobox\"><details open><summary>Map</summary><div style=\"overflow-x:auto\"><table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" border=\"1\" bordercolor=\"#888\"><tr style=\"min-height:28px;height:24px\"><td style=\"min-width:22px\"></td><td style=\"min-width:22px\" align=\"center\"><b>1</b></td><td style=\"min-width:22px\" align=\"center\"><b>2</b></td><td style=\"min-width:22px\" align=\"center\"><b>3</b></td><td style=\"min-width:22px\" align=\"center\"><b>4</b></td><td style=\"min-width:22px\" align=\"center\"><b>5</b></td><td style=\"min-width:22px\" align=\"center\"><b>6</b></td><td style=\"min-width:22px\" align=\"center\"><b>7</b></td><td style=\"min-width:22px\" align=\"center\"><b>8</b></td><td style=\"min-width:22px\" align=\"center\"><b>9</b></td><td style=\"min-width:22px\" align=\"center\"><b>10</b></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>A</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>B</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>C</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>D</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>E</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\" align=\"center\"><b style=\"color:#0000C0\">P1</b></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>F</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\" align=\"center\"><b style=\"color:#00A000\">P2</b></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>G</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>H</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>I</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#33E9E9\" title=\"ice\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>J</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr></table></div></details><details open><summary>Player Data</summary><div style=\"overflow-x:auto\"><table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" cellpadding=\"3\" border=\"1\" bordercolor=\"#888\"><col width=\"22\"><col><col><col><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><tr style=\"height:22px\"><th>#</th><th>Name</th><th>Class/Weapon</th><th>HP</th><th>A</th><th>M</th><th>PE</th><th>ME</th><th>MP</th></tr><tr style=\"height:22px\"><th><b style=\"color:#0000C0\">P1</b></th><th>4mat</th><th>Rifter(10)/Tarot Cards(10)</th><th>18/125</th><th>14</th><th>20</th><th>2</th><th>2</th><th>5</th></tr><tr style=\"height:22px\"><th><b style=\"color:#00A000\">P2</b></th><th>hph ezla</th><th>Rifter(10)/Pendulum(10)</th><th>13/125</th><th>14</th><th>18</th><th>3</th><th>2</th><th>4</th></tr><tr style=\"min-height:22px\"><td colspan=\"9\"  style=\"max-width:1px;text-align:center\"><b>Turn Order: 4mat (A), hph ezla (B)</b></td></tr></table></div></details></div>",
-  "playerPosition": " P1 Position: E, 9 ||  P2 Position: F, 9 || ",
+  "plHTML": "<table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" cellpadding=\"3\" border=\"1\" bordercolor=\"#888\"><col width=\"22\"><col><col><col><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><tr style=\"height:22px\"><th>#</th><th>Name</th><th>Class/Weapon</th><th>HP</th><th>A</th><th>M</th><th>PE</th><th>ME</th><th>MP</th></tr><tr style=\"height:22px\"><td><b style=\"color:#00A000\">P1</b></td><td>4mat</td><td>Rifter(10)/Tarot Cards(10)</td><td>125/125</td><td>14</td><td>20</td><td>2</td><td>2</td><td>5</td></tr><tr style=\"height:22px\"><td><b style=\"color:#0000C0\">P2</b></td><td>Vrji</td><td>CryoKinetic(10)/Longbow(10)</td><td>87/140</td><td>19</td><td>9</td><td>2</td><td>2</td><td>4</td></tr><tr style=\"min-height:22px\"><td colspan=\"9\"  style=\"max-width:1px;text-align:center\"><b>Turn Order: 4mat (B), Vrji (A)</b></td></tr></table></table>",
+  "lastINFO": "Sun Mar 26 2023 06:05:03 GMT-0400 (Eastern Daylight Time) /uhtml 1679825103154,<div class=\"infobox\"><details open><summary>Map</summary><div style=\"overflow-x:auto\"><table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" border=\"1\" bordercolor=\"#888\"><tr style=\"min-height:28px;height:24px\"><td style=\"min-width:22px\"></td><td style=\"min-width:22px\" align=\"center\"><b>1</b></td><td style=\"min-width:22px\" align=\"center\"><b>2</b></td><td style=\"min-width:22px\" align=\"center\"><b>3</b></td><td style=\"min-width:22px\" align=\"center\"><b>4</b></td><td style=\"min-width:22px\" align=\"center\"><b>5</b></td><td style=\"min-width:22px\" align=\"center\"><b>6</b></td><td style=\"min-width:22px\" align=\"center\"><b>7</b></td><td style=\"min-width:22px\" align=\"center\"><b>8</b></td><td style=\"min-width:22px\" align=\"center\"><b>9</b></td><td style=\"min-width:22px\" align=\"center\"><b>10</b></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>A</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\" align=\"center\"><b style=\"color:#0000C0\">P2</b></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>B</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\" align=\"center\"><b style=\"color:#00A000\">P1</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>C</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>D</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>E</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#454FDF\" title=\"water\"></td><td style=\"background:#454FDF\" title=\"water\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>F</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#454FDF\" title=\"water\"></td><td style=\"background:#454FDF\" title=\"water\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>G</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>H</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>I</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#226622\" title=\"forest\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr><tr style=\"min-height:24px;height:24px\"><td align=\"center\"><b>J</b></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td><td style=\"background:#99E599\" title=\"normal\"></td></tr></table></div></details><details open><summary>Player Data</summary><div style=\"overflow-x:auto\"><table align=\"center\" style=\"border-spacing:0px;border-collapse:collapse;border:1px solid #888; background:rgba(120, 120, 225, 0.10)\" cellpadding=\"3\" border=\"1\" bordercolor=\"#888\"><col width=\"22\"><col><col><col><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><col width=\"22\"><tr style=\"height:22px\"><th>#</th><th>Name</th><th>Class/Weapon</th><th>HP</th><th>A</th><th>M</th><th>PE</th><th>ME</th><th>MP</th></tr><tr style=\"height:22px\"><th><b style=\"color:#00A000\">P1</b></th><th>4mat</th><th>Rifter(10)/Tarot Cards(10)</th><th>125/125</th><th>14</th><th>20</th><th>2</th><th>2</th><th>5</th></tr><tr style=\"height:22px\"><th><b style=\"color:#0000C0\">P2</b></th><th>Vrji</th><th>CryoKinetic(10)/Longbow(10)</th><th>87/140</th><th>19</th><th>9</th><th>2</th><th>2</th><th>4</th></tr><tr style=\"min-height:22px\"><td colspan=\"9\"  style=\"max-width:1px;text-align:center\"><b>Turn Order: 4mat (B), Vrji (A)</b></td></tr></table></div></details></div>",
+  "playerPosition": " P2 Position: A, 9 ||  P1 Position: B, 8 || ",
   "room": "groupchat-battledome-one",
   "weaponmoves": {
-    "Oscillations": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Oscillations @ target   '>target</button>",
-    "Entrance": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Entrance @ target | 2d8+22 | MR 2'>target</button>",
-    "Torment": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Torment @ target | 4d4+20 | MR 4'>target</button>",
-    "Action and Reaction": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Action and Reaction @ target   '>target</button>",
-    "Dowse": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Dowse @ target   '>target</button>",
-    "Hallucinations": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Hallucinations @ target | 3d10+19 | MR 3'>target</button>",
-    "Clacker Volley": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Clacker Volley @ target | 3d8+23 | MR 3'>target</button>",
-    "Angular Momentum": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Angular Momentum @ target   '>target</button>",
-    "Mass Hysteria": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Mass Hysteria @ target | 5d6+22 | MR 5'>target</button>",
-    "Hypnotic Daze": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Hypnotic Daze @ target | 1d12+28 | MR 4'>target</button>",
-    "Nihil": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Nihil @ target | 3d10+23 | MR 4'>target</button>",
-    "Shatter Psyche": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Shatter Psyche @ target | 4d8+23 | MR 4'>target</button>"
+    "Discard": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Discard @ target | 2d8+25 | MR 2'>target</button>",
+    "Maverick": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Maverick @ target | 2d8+24 | MR 3'>target</button>",
+    "Roulette": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Roulette @ target | 3d8+23 | MR 3'>target</button>",
+    "Dealer": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Dealer @ target   '>target</button>",
+    "Gamble": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Gamble @ target | 3d8+20 | MR 3'>target</button>",
+    "Blackjack": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Blackjack @ target | 3d8+25 | MR 3'>target</button>",
+    "Hi-Lo": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Hi-Lo @ target   MR 4'>target</button>",
+    "Full House": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Full House @ target | 7d8+20 | MR 4'>target</button>",
+    "House Advantage": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, House Advantage @ target | 2d12+26 | MR 4'>target</button>",
+    "Stacked Deck": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Stacked Deck @ target | 6d8+20 | '>target</button>"
   },
   "classmoves": {
-    "Time Matrix": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Time Matrix @ target    &#10;/pm thatcableguy, %cut recent'>target</button>",
-    "Rewind": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Rewind @ target    &#10;/pm thatcableguy, %cut recent'>target</button>",
-    "Vortex": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Vortex @ target    &#10;/pm thatcableguy, %cut recent'>target</button>",
-    "Paradox": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Paradox @ target    &#10;/pm thatcableguy, %cut recent'>target</button>",
-    "Time Dilation": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Time Dilation @ target    &#10;/pm thatcableguy, %cut recent'>target</button>"
+    "Invoke: Fire": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Invoke: Fire @ target    &#10;/pm thatcableguy, %cut recent'>target</button>",
+    "Comet": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Comet @ target | 1d4+2 | MR 2 &#10;/pm thatcableguy, %cut recent'>target</button>",
+    "Ignition": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Ignition @ target    &#10;/pm thatcableguy, %cut recent'>target</button>",
+    "Afterburn": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Afterburn @ target    &#10;/pm thatcableguy, %cut recent'>target</button>",
+    "Kinetic Energy": "<button class='button' name='send' value='/msgroom groupchat-battledome-one, Kinetic Energy @ target    &#10;/pm thatcableguy, %cut recent'>target</button>"
   },
   "cutNumber": "1"
 }
