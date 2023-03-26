@@ -229,6 +229,7 @@ exports.commands = {
 		playerWeapon = playerWeapon.replace(')','').split('(');
 
 		let weaponMoves = format.makeButtonsForWeapon(playerWeapon[0], Number(playerWeapon[1]), format.getRoom(), format.getStats(userName));
+		weaponMoves = format.makeButtonsForWeapon(playerWeapon[0], Number(playerWeapon[1]), format.getRoom(), format.getStats(userName));
 		let classMoves = format.makeButtonsForClass(playerClass[0], Number(playerClass[1]), format.getRoom());
 		
 		let htmlpageIntro = `/sendhtmlpage ${userName}, ${title}`;
@@ -237,6 +238,14 @@ exports.commands = {
 		this.say(room, `/msgroom botdev, ${returnStatement}`);
 	},
 	use: function(arg, user, room){
+
+		var text = arg;
+		text = text.toLowerCase()
+    		.split(' ')
+    		.map((s) => s.charAt(0).toUpperCase() + s.substring(1))
+    		.join(' ');
+		arg = text;
+
 		var userName = ""; let title = 'BDgame';
 
 		var userName = user.id;

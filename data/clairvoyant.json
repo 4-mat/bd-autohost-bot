@@ -157,7 +157,7 @@
             "Effect": "This move has Delay-1 and a Delay bonus of +15 damage if the user dies before this attack hits."
         }
     ],
-    "Pendulum ": [
+    "Pendulum": [
         {
             "Name": "Oscillations",
             "Lvl": 1,
