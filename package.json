@@ -12,6 +12,7 @@
 		"nerdamer": "^1.1.13",
 		"origindb": "^2.6.1",
 		"probe-image-size": "^7.2.3",
+		"sugar": "^2.0.6",
 		"tabletojson": "^2.0.7",
 		"websocket": "^1.0.34"
 	},
