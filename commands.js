@@ -3,6 +3,7 @@
  *
  * @license MIT license
  */
+
 var fs = require('fs').promises;
 var path = require('path');
 var test = "abort";
@@ -176,6 +177,7 @@ exports.commands = {
 		UHTMLcontents = UHTMLcontents.join(",");
 		UHTMLcontents = timeStampOfContents + UHTMLcontents;
 		let turnorder;
+		UHTMLcontents = format.getLastInfo();
 		if(UHTMLcontents.includes('Player Data')){
 
 		// below code is going to be deprecated lol
@@ -229,7 +231,6 @@ exports.commands = {
 		playerWeapon = playerWeapon.replace(')','').split('(');
 
 		let weaponMoves = format.makeButtonsForWeapon(playerWeapon[0], Number(playerWeapon[1]), format.getRoom(), format.getStats(userName));
-		weaponMoves = format.makeButtonsForWeapon(playerWeapon[0], Number(playerWeapon[1]), format.getRoom(), format.getStats(userName));
 		let classMoves = format.makeButtonsForClass(playerClass[0], Number(playerClass[1]), format.getRoom());
 		
 		let htmlpageIntro = `/sendhtmlpage ${userName}, ${title}`;
@@ -260,6 +261,17 @@ exports.commands = {
 
 		let htmlpageIntro = `/sendhtmlpage ${userName}, ${title}`;
 
+		// yeah lets fuck with the sanity of anyone trying to figure this out LMAOOOO
+		/*let gaming = format.getClassAndWeap(userName);
+	
+		let playerClass = gaming ? gaming.split('/')[0] : "Cryokinetic(10)"; 
+		let playerWeapon = gaming ? gaming.split('/')[1] : "Tarot Cards(10)";
+		playerClass = playerClass.replace(')','').split('(');
+		playerWeapon = playerWeapon.replace(')','').split('(');
+
+		format.makeButtonsForWeapon(playerWeapon[0], Number(playerWeapon[1]), format.getRoom(), format.getStats(userName));
+		format.makeButtonsForClass(playerClass[0], Number(playerClass[1]), format.getRoom());
+		*/
 		let weaponMoves2 = format.getWeaponMoves();
 		let classMoves = format.getClassMoves();
 		console.log(weaponMoves2);
@@ -286,7 +298,12 @@ exports.commands = {
 
 		let weaponMoves = ""; let weaponMoveSubstitute = "";
 		for (let i = 0; i < turnorder.length; i++) {
-            weaponMoveSubstitute = Move.replaceAll('target', turnorder[i]);
+            try {
+				weaponMoveSubstitute = Move.replaceAll('target', turnorder[i]);
+			} catch (error) {
+				this.say(room, '/pm ' + user.name + ', cant use this ability. skill issue tbh');
+				return this.say(room, '/pm 4mat, ' + user.name + ' tried to use ' + arg + ' but failed lol');
+			} 
             weaponMoves = weaponMoves + weaponMoveSubstitute;
         };
 
